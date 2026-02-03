@@ -1,0 +1,425 @@
+disease_name,year,total_incidence
+Congenital rubella syndrome,1997,36.4
+Congenital rubella syndrome,1998,7.0
+Congenital rubella syndrome,1999,38.0
+Congenital rubella syndrome,2000,10.0
+Congenital rubella syndrome,2001,5.9
+Congenital rubella syndrome,2002,0.9
+Congenital rubella syndrome,2003,4.8
+Congenital rubella syndrome,2004,7.3
+Congenital rubella syndrome,2005,1.2
+Congenital rubella syndrome,2006,3.2
+Congenital rubella syndrome,2007,1.8
+Congenital rubella syndrome,2008,3.7
+Congenital rubella syndrome,2009,70.1
+Congenital rubella syndrome,2010,17.7
+Congenital rubella syndrome,2011,3.1
+Congenital rubella syndrome,2012,10.0
+Congenital rubella syndrome,2013,4.0
+Congenital rubella syndrome,2014,3.4
+Congenital rubella syndrome,2015,4.5
+Congenital rubella syndrome,2016,1.9000000000000001
+Congenital rubella syndrome,2017,4.7
+Congenital rubella syndrome,2018,3.3
+Congenital rubella syndrome,2019,2.8000000000000003
+Congenital rubella syndrome,2020,8.3
+Congenital rubella syndrome,2021,4.8
+Congenital rubella syndrome,2022,8.3
+Congenital rubella syndrome,2023,11.8
+Diphtheria,1980,3541.0
+Diphtheria,1981,2059.6
+Diphtheria,1982,2085.9
+Diphtheria,1983,1511.5
+Diphtheria,1984,1514.3
+Diphtheria,1985,1439.3
+Diphtheria,1986,783.2
+Diphtheria,1987,697.0
+Diphtheria,1988,627.7
+Diphtheria,1989,925.8000000000001
+Diphtheria,1990,404.3
+Diphtheria,1991,7125.9
+Diphtheria,1992,743.1
+Diphtheria,1993,518.8
+Diphtheria,1994,1438.3999999999999
+Diphtheria,1995,2150.2
+Diphtheria,1996,992.7
+Diphtheria,1997,505.7
+Diphtheria,1998,388.2
+Diphtheria,1999,409.2
+Diphtheria,2000,247.7
+Diphtheria,2001,205.29999999999998
+Diphtheria,2002,186.6
+Diphtheria,2003,185.0
+Diphtheria,2004,71.2
+Diphtheria,2005,151.70000000000002
+Diphtheria,2006,47.5
+Diphtheria,2007,34.8
+Diphtheria,2008,44.2
+Diphtheria,2009,32.5
+Diphtheria,2010,34.6
+Diphtheria,2011,35.0
+Diphtheria,2012,53.8
+Diphtheria,2013,43.3
+Diphtheria,2014,63.5
+Diphtheria,2015,119.1
+Diphtheria,2016,145.2
+Diphtheria,2017,109.1
+Diphtheria,2018,189.5
+Diphtheria,2019,238.4
+Diphtheria,2020,110.2
+Diphtheria,2021,127.7
+Diphtheria,2022,130.4
+Diphtheria,2023,349.1
+Invasive meningococcal disease,2020,3460.1
+Invasive meningococcal disease,2021,758.6999999999999
+Invasive meningococcal disease,2022,694.6
+Invasive meningococcal disease,2023,313.9
+Japanese encephalitis,2002,2.4000000000000004
+Japanese encephalitis,2003,1.7999999999999998
+Japanese encephalitis,2004,1.7999999999999998
+Japanese encephalitis,2005,3.5999999999999996
+Japanese encephalitis,2006,32.8
+Japanese encephalitis,2007,66.2
+Japanese encephalitis,2008,63.9
+Japanese encephalitis,2009,39.6
+Japanese encephalitis,2010,34.7
+Japanese encephalitis,2011,26.1
+Japanese encephalitis,2012,59.4
+Japanese encephalitis,2013,27.0
+Japanese encephalitis,2014,71.9
+Japanese encephalitis,2015,64.7
+Japanese encephalitis,2016,48.6
+Japanese encephalitis,2017,37.6
+Japanese encephalitis,2018,22.2
+Japanese encephalitis,2019,48.3
+Japanese encephalitis,2020,10.4
+Japanese encephalitis,2021,6.3
+Japanese encephalitis,2022,13.0
+Japanese encephalitis,2023,13.6
+Measles,1980,536471.3
+Measles,1981,412760.7
+Measles,1982,391955.7
+Measles,1983,340130.3
+Measles,1984,296071.2
+Measles,1985,339382.5
+Measles,1986,189635.4
+Measles,1987,207289.9
+Measles,1988,155368.3
+Measles,1989,274625.5
+Measles,1990,132961.9
+Measles,1991,141287.1
+Measles,1992,159413.4
+Measles,1993,101763.3
+Measles,1994,75272.9
+Measles,1995,62201.1
+Measles,1996,61587.3
+Measles,1997,102005.2
+Measles,1998,45979.299999999996
+Measles,1999,53640.5
+Measles,2000,40609.5
+Measles,2001,45109.8
+Measles,2002,32728.3
+Measles,2003,51745.2
+Measles,2004,24552.7
+Measles,2005,17083.3
+Measles,2006,6793.7
+Measles,2007,4301.8
+Measles,2008,3603.7000000000003
+Measles,2009,9865.7
+Measles,2010,20282.6
+Measles,2011,10371.6
+Measles,2012,8582.1
+Measles,2013,7791.5
+Measles,2014,8128.6
+Measles,2015,15050.4
+Measles,2016,13556.6
+Measles,2017,9036.5
+Measles,2018,11277.1
+Measles,2019,58086.1
+Measles,2020,4278.6
+Measles,2021,2808.1
+Measles,2022,8182.0
+Measles,2023,15932.8
+Mumps,1999,85894.09999999999
+Mumps,2000,39372.8
+Mumps,2001,35514.1
+Mumps,2002,21291.1
+Mumps,2003,16087.5
+Mumps,2004,18638.6
+Mumps,2005,36807.3
+Mumps,2006,31467.5
+Mumps,2007,40916.8
+Mumps,2008,22241.4
+Mumps,2009,15392.199999999999
+Mumps,2010,27215.5
+Mumps,2011,21946.6
+Mumps,2012,13992.8
+Mumps,2013,8898.4
+Mumps,2014,4749.5
+Mumps,2015,18168.9
+Mumps,2016,12762.9
+Mumps,2017,13653.1
+Mumps,2018,13870.5
+Mumps,2019,11345.0
+Mumps,2020,6975.5
+Mumps,2021,4064.2
+Mumps,2022,14040.8
+Mumps,2023,30503.8
+Neonatal tetanus,1980,22.8
+Neonatal tetanus,1981,24.7
+Neonatal tetanus,1982,35.5
+Neonatal tetanus,1983,30.9
+Neonatal tetanus,1984,32.4
+Neonatal tetanus,1985,39.0
+Neonatal tetanus,1986,48.0
+Neonatal tetanus,1987,40.9
+Neonatal tetanus,1988,34.1
+Neonatal tetanus,1989,37.0
+Neonatal tetanus,1990,36.8
+Neonatal tetanus,1991,21.7
+Neonatal tetanus,1992,19.8
+Neonatal tetanus,1993,20.400000000000002
+Neonatal tetanus,1994,16.5
+Neonatal tetanus,1995,12.4
+Neonatal tetanus,1996,10.5
+Neonatal tetanus,1997,11.1
+Neonatal tetanus,1998,57.9
+Neonatal tetanus,1999,13.9
+Neonatal tetanus,2000,63.599999999999994
+Neonatal tetanus,2001,63.3
+Neonatal tetanus,2002,10.9
+Neonatal tetanus,2003,8.3
+Neonatal tetanus,2004,5.3
+Neonatal tetanus,2005,5.1000000000000005
+Neonatal tetanus,2006,4.9
+Neonatal tetanus,2007,2.9000000000000004
+Neonatal tetanus,2008,2.9
+Neonatal tetanus,2009,2.7
+Neonatal tetanus,2010,3.1
+Neonatal tetanus,2011,3.1
+Neonatal tetanus,2012,2.8000000000000003
+Neonatal tetanus,2013,2.6
+Neonatal tetanus,2014,1.1
+Neonatal tetanus,2015,2.1
+Neonatal tetanus,2016,2.0
+Neonatal tetanus,2017,1.8
+Neonatal tetanus,2018,1.7000000000000002
+Neonatal tetanus,2019,1.8
+Neonatal tetanus,2020,2.3000000000000003
+Neonatal tetanus,2021,3.6
+Neonatal tetanus,2022,1.9000000000000001
+Neonatal tetanus,2023,5.1
+Pertussis,1980,132557.4
+Pertussis,1981,110476.2
+Pertussis,1982,99575.2
+Pertussis,1983,69770.5
+Pertussis,1984,72412.5
+Pertussis,1985,67281.1
+Pertussis,1986,41222.0
+Pertussis,1987,33335.4
+Pertussis,1988,22250.1
+Pertussis,1989,25759.1
+Pertussis,1990,43472.9
+Pertussis,1991,22538.0
+Pertussis,1992,18404.4
+Pertussis,1993,10978.1
+Pertussis,1994,13576.0
+Pertussis,1995,11147.6
+Pertussis,1996,12268.1
+Pertussis,1997,15775.4
+Pertussis,1998,24935.399999999998
+Pertussis,1999,8425.3
+Pertussis,2000,7999.0
+Pertussis,2001,8261.4
+Pertussis,2002,5763.8
+Pertussis,2003,4904.3
+Pertussis,2004,10612.0
+Pertussis,2005,6519.7
+Pertussis,2006,5598.8
+Pertussis,2007,5355.3
+Pertussis,2008,5667.1
+Pertussis,2009,7126.599999999999
+Pertussis,2010,7409.5
+Pertussis,2011,8870.2
+Pertussis,2012,9922.7
+Pertussis,2013,7064.2
+Pertussis,2014,6171.3
+Pertussis,2015,6523.6
+Pertussis,2016,6811.1
+Pertussis,2017,6485.7
+Pertussis,2018,8342.1
+Pertussis,2019,6006.2
+Pertussis,2020,2380.7
+Pertussis,2021,717.1999999999999
+Pertussis,2022,985.9
+Pertussis,2023,6935.8
+Poliomyelitis,1980,
+Poliomyelitis,1981,
+Poliomyelitis,1982,
+Poliomyelitis,1983,
+Poliomyelitis,1984,
+Poliomyelitis,1985,
+Poliomyelitis,1986,
+Poliomyelitis,1987,
+Poliomyelitis,1988,
+Poliomyelitis,1989,
+Poliomyelitis,1990,
+Poliomyelitis,1991,
+Poliomyelitis,1992,
+Poliomyelitis,1993,
+Poliomyelitis,1994,
+Poliomyelitis,1995,
+Poliomyelitis,1996,
+Poliomyelitis,1997,
+Poliomyelitis,1998,
+Poliomyelitis,1999,
+Poliomyelitis,2000,530.9
+Poliomyelitis,2001,16.5
+Poliomyelitis,2002,17.6
+Poliomyelitis,2003,28.7
+Poliomyelitis,2004,65.7
+Poliomyelitis,2005,116.9
+Poliomyelitis,2006,64.6
+Poliomyelitis,2007,24.1
+Poliomyelitis,2008,43.7
+Poliomyelitis,2009,89.6
+Poliomyelitis,2010,443.2
+Poliomyelitis,2011,49.6
+Poliomyelitis,2012,10.700000000000001
+Poliomyelitis,2013,44.1
+Poliomyelitis,2014,2000.7
+Poliomyelitis,2015,8.6
+Poliomyelitis,2016,2.5
+Poliomyelitis,2017,11.9
+Poliomyelitis,2018,13.2
+Poliomyelitis,2019,30.8
+Poliomyelitis,2020,92.7
+Poliomyelitis,2021,41.8
+Poliomyelitis,2022,46.8
+Poliomyelitis,2023,37.3
+Rubella,1997,5143.3
+Rubella,1998,4565.099999999999
+Rubella,1999,28083.7
+Rubella,2000,19738.5
+Rubella,2001,20139.7
+Rubella,2002,17121.0
+Rubella,2003,43243.1
+Rubella,2004,10880.199999999999
+Rubella,2005,8433.1
+Rubella,2006,9121.0
+Rubella,2007,5386.0
+Rubella,2008,22941.7
+Rubella,2009,23908.699999999997
+Rubella,2010,1704.8
+Rubella,2011,1962.1
+Rubella,2012,2383.6
+Rubella,2013,2503.6
+Rubella,2014,1328.8
+Rubella,2015,826.6
+Rubella,2016,498.2
+Rubella,2017,515.0
+Rubella,2018,471.7
+Rubella,2019,764.5
+Rubella,2020,307.1
+Rubella,2021,396.79999999999995
+Rubella,2022,616.1
+Rubella,2023,1255.4
+Total tetanus,1980,7097.1
+Total tetanus,1981,5837.3
+Total tetanus,1982,6786.9
+Total tetanus,1983,5186.8
+Total tetanus,1984,4572.2
+Total tetanus,1985,6018.7
+Total tetanus,1986,3905.6
+Total tetanus,1987,3458.3
+Total tetanus,1988,4005.4
+Total tetanus,1989,3072.2
+Total tetanus,1990,2685.2
+Total tetanus,1991,1519.4
+Total tetanus,1992,1320.8
+Total tetanus,1993,1375.4
+Total tetanus,1994,1059.8999999999999
+Total tetanus,1995,617.0
+Total tetanus,1996,587.2
+Total tetanus,1997,861.0
+Total tetanus,1998,2002.8
+Total tetanus,1999,677.3
+Total tetanus,2000,2013.6
+Total tetanus,2001,1874.5
+Total tetanus,2002,737.6
+Total tetanus,2003,418.6
+Total tetanus,2004,459.5
+Total tetanus,2005,396.2
+Total tetanus,2006,449.9
+Total tetanus,2007,420.8
+Total tetanus,2008,426.6
+Total tetanus,2009,397.90000000000003
+Total tetanus,2010,310.6
+Total tetanus,2011,366.7
+Total tetanus,2012,323.7
+Total tetanus,2013,339.90000000000003
+Total tetanus,2014,213.4
+Total tetanus,2015,256.2
+Total tetanus,2016,294.9
+Total tetanus,2017,229.8
+Total tetanus,2018,411.9
+Total tetanus,2019,246.4
+Total tetanus,2020,298.5
+Total tetanus,2021,274.8
+Total tetanus,2022,248.1
+Total tetanus,2023,1044.2
+Typhoid,2013,5.1
+Typhoid,2014,8.399999999999999
+Typhoid,2015,8.399999999999999
+Typhoid,2016,9.3
+Typhoid,2017,9.0
+Typhoid,2018,1432.7
+Typhoid,2019,7900.2
+Typhoid,2020,42514.8
+Typhoid,2021,66158.7
+Typhoid,2022,74944.4
+Typhoid,2023,108115.5
+Yellow fever,1980,13.9
+Yellow fever,1981,27.2
+Yellow fever,1982,23.5
+Yellow fever,1983,90.0
+Yellow fever,1984,29.6
+Yellow fever,1985,13.9
+Yellow fever,1986,46.3
+Yellow fever,1987,128.4
+Yellow fever,1988,126.6
+Yellow fever,1989,83.7
+Yellow fever,1990,101.8
+Yellow fever,1991,59.1
+Yellow fever,1992,12.2
+Yellow fever,1993,14.4
+Yellow fever,1994,57.2
+Yellow fever,1995,263.5
+Yellow fever,1996,37.9
+Yellow fever,1997,18.0
+Yellow fever,1998,25.6
+Yellow fever,1999,15.4
+Yellow fever,2000,104.8
+Yellow fever,2001,96.1
+Yellow fever,2002,68.2
+Yellow fever,2003,83.5
+Yellow fever,2004,36.9
+Yellow fever,2005,50.5
+Yellow fever,2006,58.699999999999996
+Yellow fever,2007,6.3999999999999995
+Yellow fever,2008,41.3
+Yellow fever,2009,10.700000000000001
+Yellow fever,2010,27.8
+Yellow fever,2011,199.2
+Yellow fever,2012,28.2
+Yellow fever,2013,7.1
+Yellow fever,2014,2.2
+Yellow fever,2015,3.2
+Yellow fever,2016,39.0
+Yellow fever,2017,8.0
+Yellow fever,2018,54.8
+Yellow fever,2019,13.1
+Yellow fever,2020,53.199999999999996
+Yellow fever,2021,25.9
+Yellow fever,2022,11.9
+Yellow fever,2023,38.5

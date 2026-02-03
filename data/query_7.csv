@@ -1,0 +1,409 @@
+disease_name,year,incidence_rate
+Diphtheria,1980,57.1
+Measles,1980,165.9
+Neonatal tetanus,1980,
+Pertussis,1980,465.7
+Poliomyelitis,1980,
+Total tetanus,1980,66.8
+Yellow fever,1980,
+Diphtheria,1981,37.4
+Measles,1981,287.1
+Neonatal tetanus,1981,
+Pertussis,1981,510.6
+Poliomyelitis,1981,
+Total tetanus,1981,58.5
+Yellow fever,1981,
+Diphtheria,1982,23.9
+Measles,1982,203.0
+Neonatal tetanus,1982,
+Pertussis,1982,385.7
+Poliomyelitis,1982,
+Total tetanus,1982,57.9
+Yellow fever,1982,
+Diphtheria,1983,18.7
+Measles,1983,175.8
+Neonatal tetanus,1983,
+Pertussis,1983,286.5
+Poliomyelitis,1983,
+Total tetanus,1983,46.7
+Yellow fever,1983,
+Diphtheria,1984,22.6
+Measles,1984,252.9
+Neonatal tetanus,1984,
+Pertussis,1984,250.8
+Poliomyelitis,1984,
+Total tetanus,1984,41.6
+Yellow fever,1984,
+Diphtheria,1985,20.3
+Measles,1985,208.7
+Neonatal tetanus,1985,
+Pertussis,1985,238.6
+Poliomyelitis,1985,
+Total tetanus,1985,48.7
+Yellow fever,1985,
+Diphtheria,1986,11.9
+Measles,1986,196.1
+Neonatal tetanus,1986,
+Pertussis,1986,211.5
+Poliomyelitis,1986,
+Total tetanus,1986,41.0
+Yellow fever,1986,
+Diphtheria,1987,16.0
+Measles,1987,312.7
+Neonatal tetanus,1987,
+Pertussis,1987,202.5
+Poliomyelitis,1987,
+Total tetanus,1987,39.5
+Yellow fever,1987,
+Diphtheria,1988,19.9
+Measles,1988,195.1
+Neonatal tetanus,1988,0.4
+Pertussis,1988,173.6
+Poliomyelitis,1988,
+Total tetanus,1988,29.4
+Yellow fever,1988,
+Diphtheria,1989,13.2
+Measles,1989,195.9
+Neonatal tetanus,1989,0.4
+Pertussis,1989,171.6
+Poliomyelitis,1989,
+Total tetanus,1989,29.3
+Yellow fever,1989,
+Diphtheria,1990,9.7
+Measles,1990,103.6
+Neonatal tetanus,1990,0.3
+Pertussis,1990,130.0
+Poliomyelitis,1990,
+Total tetanus,1990,27.0
+Yellow fever,1990,
+Diphtheria,1991,14.2
+Measles,1991,88.1
+Neonatal tetanus,1991,0.4
+Pertussis,1991,83.2
+Poliomyelitis,1991,
+Total tetanus,1991,17.0
+Yellow fever,1991,
+Diphtheria,1992,9.0
+Measles,1992,79.5
+Neonatal tetanus,1992,0.1
+Pertussis,1992,70.1
+Poliomyelitis,1992,
+Total tetanus,1992,12.5
+Yellow fever,1992,
+Diphtheria,1993,7.7
+Measles,1993,54.6
+Neonatal tetanus,1993,0.2
+Pertussis,1993,51.6
+Poliomyelitis,1993,
+Total tetanus,1993,16.7
+Yellow fever,1993,
+Diphtheria,1994,3.2
+Measles,1994,53.7
+Neonatal tetanus,1994,0.1
+Pertussis,1994,41.0
+Poliomyelitis,1994,
+Total tetanus,1994,34.6
+Yellow fever,1994,
+Diphtheria,1995,2.2
+Measles,1995,39.0
+Neonatal tetanus,1995,0.1
+Pertussis,1995,4.2
+Poliomyelitis,1995,
+Total tetanus,1995,
+Yellow fever,1995,
+Diphtheria,1996,2.6
+Measles,1996,48.0
+Neonatal tetanus,1996,0.0
+Pertussis,1996,
+Poliomyelitis,1996,
+Total tetanus,1996,
+Yellow fever,1996,
+Diphtheria,1997,1.3
+Measles,1997,61.1
+Neonatal tetanus,1997,0.1
+Pertussis,1997,21.4
+Poliomyelitis,1997,
+Total tetanus,1997,7.3
+Yellow fever,1997,
+Diphtheria,1998,1.4
+Measles,1998,33.4
+Neonatal tetanus,1998,0.1
+Pertussis,1998,30.6
+Poliomyelitis,1998,
+Total tetanus,1998,6.6
+Yellow fever,1998,
+Congenital rubella syndrome,1999,
+Diphtheria,1999,1.7
+Measles,1999,20.2
+Mumps,1999,
+Neonatal tetanus,1999,0.0
+Pertussis,1999,10.8
+Poliomyelitis,1999,
+Rubella,1999,
+Total tetanus,1999,2.0
+Yellow fever,1999,
+Congenital rubella syndrome,2000,
+Diphtheria,2000,4.8
+Measles,2000,36.7
+Mumps,2000,
+Neonatal tetanus,2000,0.1
+Pertussis,2000,29.7
+Poliomyelitis,2000,0.7
+Rubella,2000,
+Total tetanus,2000,8.5
+Yellow fever,2000,
+Congenital rubella syndrome,2001,
+Diphtheria,2001,5.1
+Measles,2001,48.0
+Mumps,2001,
+Neonatal tetanus,2001,0.1
+Pertussis,2001,32.2
+Poliomyelitis,2001,0.7
+Rubella,2001,
+Total tetanus,2001,5.3
+Yellow fever,2001,0.0
+Congenital rubella syndrome,2002,
+Diphtheria,2002,4.8
+Measles,2002,36.5
+Mumps,2002,
+Neonatal tetanus,2002,0.1
+Pertussis,2002,30.3
+Poliomyelitis,2002,4.2
+Rubella,2002,
+Total tetanus,2002,11.1
+Yellow fever,2002,
+Congenital rubella syndrome,2003,
+Diphtheria,2003,3.8
+Measles,2003,42.2
+Mumps,2003,
+Neonatal tetanus,2003,0.1
+Pertussis,2003,30.4
+Poliomyelitis,2003,0.6
+Rubella,2003,
+Total tetanus,2003,3.6
+Yellow fever,2003,
+Congenital rubella syndrome,2004,
+Diphtheria,2004,7.5
+Measles,2004,48.8
+Mumps,2004,
+Neonatal tetanus,2004,0.0
+Pertussis,2004,28.9
+Poliomyelitis,2004,0.3
+Rubella,2004,
+Total tetanus,2004,3.4
+Yellow fever,2004,
+Congenital rubella syndrome,2005,
+Diphtheria,2005,5.0
+Measles,2005,31.8
+Mumps,2005,
+Neonatal tetanus,2005,0.0
+Pertussis,2005,27.0
+Poliomyelitis,2005,0.2
+Rubella,2005,
+Total tetanus,2005,2.6
+Yellow fever,2005,
+Congenital rubella syndrome,2006,
+Diphtheria,2006,2.4
+Japanese encephalitis,2006,
+Measles,2006,54.7
+Mumps,2006,
+Neonatal tetanus,2006,0.0
+Pertussis,2006,25.7
+Poliomyelitis,2006,1.7
+Rubella,2006,
+Total tetanus,2006,2.4
+Yellow fever,2006,
+Congenital rubella syndrome,2007,
+Diphtheria,2007,3.2
+Japanese encephalitis,2007,3.4
+Measles,2007,34.6
+Mumps,2007,
+Neonatal tetanus,2007,0.0
+Pertussis,2007,39.2
+Poliomyelitis,2007,2.2
+Rubella,2007,
+Total tetanus,2007,6.3
+Yellow fever,2007,
+Congenital rubella syndrome,2008,
+Diphtheria,2008,3.3
+Japanese encephalitis,2008,0.4
+Measles,2008,36.6
+Mumps,2008,
+Neonatal tetanus,2008,0.0
+Pertussis,2008,36.2
+Poliomyelitis,2008,1.4
+Rubella,2008,
+Total tetanus,2008,2.4
+Yellow fever,2008,
+Diphtheria,2009,2.9
+Japanese encephalitis,2009,0.5
+Measles,2009,45.8
+Neonatal tetanus,2009,0.0
+Pertussis,2009,49.3
+Poliomyelitis,2009,1.9
+Rubella,2009,
+Total tetanus,2009,1.7
+Congenital rubella syndrome,2010,
+Diphtheria,2010,2.8
+Japanese encephalitis,2010,0.4
+Measles,2010,25.3
+Mumps,2010,
+Neonatal tetanus,2010,0.0
+Pertussis,2010,32.6
+Poliomyelitis,2010,0.1
+Rubella,2010,
+Total tetanus,2010,1.4
+Yellow fever,2010,
+Congenital rubella syndrome,2011,
+Diphtheria,2011,3.4
+Japanese encephalitis,2011,1.0
+Measles,2011,26.7
+Mumps,2011,
+Neonatal tetanus,2011,0.0
+Pertussis,2011,31.0
+Poliomyelitis,2011,0.0
+Rubella,2011,
+Total tetanus,2011,2.3
+Yellow fever,2011,
+Congenital rubella syndrome,2012,
+Diphtheria,2012,2.0
+Japanese encephalitis,2012,
+Measles,2012,2.6
+Mumps,2012,
+Neonatal tetanus,2012,0.0
+Pertussis,2012,34.5
+Poliomyelitis,2012,0.0
+Rubella,2012,1.0
+Total tetanus,2012,1.9
+Yellow fever,2012,
+Congenital rubella syndrome,2013,
+Diphtheria,2013,2.4
+Japanese encephalitis,2013,0.8
+Measles,2013,6.4
+Mumps,2013,
+Neonatal tetanus,2013,0.0
+Pertussis,2013,24.0
+Poliomyelitis,2013,0.0
+Rubella,2013,2.9
+Total tetanus,2013,2.2
+Yellow fever,2013,
+Congenital rubella syndrome,2014,
+Diphtheria,2014,4.6
+Japanese encephalitis,2014,1.3
+Measles,2014,20.2
+Mumps,2014,
+Neonatal tetanus,2014,0.0
+Pertussis,2014,35.6
+Poliomyelitis,2014,0.0
+Rubella,2014,3.7
+Total tetanus,2014,3.8
+Yellow fever,2014,
+Congenital rubella syndrome,2015,
+Diphtheria,2015,1.8
+Japanese encephalitis,2015,1.2
+Measles,2015,22.7
+Mumps,2015,
+Neonatal tetanus,2015,0.0
+Pertussis,2015,19.0
+Poliomyelitis,2015,0.0
+Rubella,2015,2.4
+Total tetanus,2015,1.7
+Yellow fever,2015,
+Congenital rubella syndrome,2016,0.0
+Diphtheria,2016,2.5
+Japanese encephalitis,2016,1.2
+Measles,2016,12.8
+Mumps,2016,
+Neonatal tetanus,2016,0.0
+Pertussis,2016,27.7
+Poliomyelitis,2016,0.0
+Rubella,2016,6.2
+Total tetanus,2016,2.8
+Yellow fever,2016,
+Congenital rubella syndrome,2017,0.0
+Diphtheria,2017,3.9
+Japanese encephalitis,2017,1.5
+Measles,2017,8.8
+Mumps,2017,
+Neonatal tetanus,2017,0.0
+Pertussis,2017,17.5
+Poliomyelitis,2017,0.0
+Rubella,2017,2.0
+Total tetanus,2017,3.6
+Yellow fever,2017,
+Congenital rubella syndrome,2018,
+Diphtheria,2018,6.4
+Japanese encephalitis,2018,1.2
+Measles,2018,14.2
+Mumps,2018,
+Neonatal tetanus,2018,0.0
+Pertussis,2018,9.6
+Poliomyelitis,2018,0.0
+Rubella,2018,1.7
+Total tetanus,2018,5.1
+Typhoid,2018,
+Yellow fever,2018,
+Congenital rubella syndrome,2019,
+Diphtheria,2019,6.9
+Japanese encephalitis,2019,1.8
+Measles,2019,7.5
+Mumps,2019,
+Neonatal tetanus,2019,0.0
+Pertussis,2019,8.5
+Poliomyelitis,2019,0.0
+Rubella,2019,2.5
+Total tetanus,2019,5.1
+Typhoid,2019,
+Yellow fever,2019,
+Congenital rubella syndrome,2020,
+Diphtheria,2020,2.5
+Invasive meningococcal disease,2020,
+Japanese encephalitis,2020,0.5
+Measles,2020,4.0
+Mumps,2020,
+Neonatal tetanus,2020,0.0
+Pertussis,2020,9.0
+Poliomyelitis,2020,0.0
+Rubella,2020,0.9
+Total tetanus,2020,1.0
+Typhoid,2020,
+Yellow fever,2020,
+Congenital rubella syndrome,2021,
+Diphtheria,2021,1.3
+Invasive meningococcal disease,2021,
+Japanese encephalitis,2021,0.3
+Measles,2021,4.0
+Mumps,2021,0.5
+Neonatal tetanus,2021,0.0
+Pertussis,2021,0.4
+Poliomyelitis,2021,0.0
+Rubella,2021,1.2
+Total tetanus,2021,0.9
+Typhoid,2021,
+Yellow fever,2021,
+Congenital rubella syndrome,2022,0.1
+Diphtheria,2022,2.3
+Invasive meningococcal disease,2022,
+Japanese encephalitis,2022,0.9
+Measles,2022,28.7
+Mumps,2022,0.0
+Neonatal tetanus,2022,0.0
+Pertussis,2022,3.1
+Poliomyelitis,2022,
+Rubella,2022,1.8
+Total tetanus,2022,0.0
+Typhoid,2022,282.4
+Yellow fever,2022,
+Congenital rubella syndrome,2023,0.0
+Diphtheria,2023,2.7
+Invasive meningococcal disease,2023,
+Japanese encephalitis,2023,0.9
+Measles,2023,45.3
+Mumps,2023,0.1
+Neonatal tetanus,2023,0.0
+Pertussis,2023,3.4
+Poliomyelitis,2023,
+Rubella,2023,2.1
+Total tetanus,2023,0.0
+Typhoid,2023,399.2
+Yellow fever,2023,

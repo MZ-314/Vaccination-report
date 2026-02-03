@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# Videos & large media
+*.mp4
+*.mov
+*.avi
+
+# Raw data
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db

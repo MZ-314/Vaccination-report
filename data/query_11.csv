@@ -1,0 +1,2866 @@
+country_name,disease_name,total_cases
+Afghanistan,Measles,219564.0
+Afghanistan,Pertussis,106727.0
+Afghanistan,Diphtheria,16237.0
+Afghanistan,Total tetanus,15958.0
+Afghanistan,Poliomyelitis,11648.0
+Afghanistan,Neonatal tetanus,5157.0
+Afghanistan,Rubella,3428.0
+Afghanistan,Congenital rubella syndrome,2100.0
+Afghanistan,Invasive meningococcal disease,161.0
+Afghanistan,Mumps,29.0
+Afghanistan,Yellow fever,0.0
+Afghanistan,Typhoid,0.0
+Afghanistan,Japanese encephalitis,0.0
+African Region,Measles,19292641.0
+African Region,Typhoid,8993069.0
+African Region,Pertussis,3320307.0
+African Region,Mumps,1199448.0
+African Region,Total tetanus,338040.0
+African Region,Rubella,186745.0
+African Region,Neonatal tetanus,142996.0
+African Region,Diphtheria,119789.0
+African Region,Poliomyelitis,69276.0
+African Region,Invasive meningococcal disease,52240.0
+African Region,Yellow fever,36957.0
+African Region,Congenital rubella syndrome,574.0
+African Region,Japanese encephalitis,9.0
+Albania,Measles,145251.0
+Albania,Mumps,13304.0
+Albania,Pertussis,4055.0
+Albania,Rubella,1812.0
+Albania,Poliomyelitis,173.0
+Albania,Diphtheria,168.0
+Albania,Total tetanus,139.0
+Albania,Neonatal tetanus,17.0
+Albania,Congenital rubella syndrome,14.0
+Albania,Yellow fever,0.0
+Albania,Typhoid,0.0
+Albania,Japanese encephalitis,0.0
+Albania,Invasive meningococcal disease,0.0
+Algeria,Measles,261703.0
+Algeria,Pertussis,4988.0
+Algeria,Rubella,3380.0
+Algeria,Diphtheria,2369.0
+Algeria,Total tetanus,1897.0
+Algeria,Poliomyelitis,731.0
+Algeria,Neonatal tetanus,352.0
+Algeria,Mumps,94.0
+Algeria,Yellow fever,0.0
+Algeria,Typhoid,0.0
+Algeria,Japanese encephalitis,0.0
+Algeria,Congenital rubella syndrome,0.0
+Algeria,Invasive meningococcal disease,
+American Samoa,Measles,589.0
+American Samoa,Pertussis,151.0
+American Samoa,Total tetanus,1.0
+American Samoa,Mumps,1.0
+American Samoa,Yellow fever,0.0
+American Samoa,Rubella,0.0
+American Samoa,Poliomyelitis,0.0
+American Samoa,Neonatal tetanus,0.0
+American Samoa,Japanese encephalitis,0.0
+American Samoa,Diphtheria,0.0
+American Samoa,Congenital rubella syndrome,0.0
+Andorra,Mumps,212.0
+Andorra,Pertussis,59.0
+Andorra,Rubella,23.0
+Andorra,Poliomyelitis,22.0
+Andorra,Measles,15.0
+Andorra,Invasive meningococcal disease,2.0
+Andorra,Yellow fever,0.0
+Andorra,Typhoid,0.0
+Andorra,Total tetanus,0.0
+Andorra,Neonatal tetanus,0.0
+Andorra,Japanese encephalitis,0.0
+Andorra,Diphtheria,0.0
+Andorra,Congenital rubella syndrome,0.0
+Angola,Typhoid,2547823.0
+Angola,Measles,376553.0
+Angola,Pertussis,279782.0
+Angola,Total tetanus,30102.0
+Angola,Neonatal tetanus,13508.0
+Angola,Poliomyelitis,2053.0
+Angola,Rubella,1127.0
+Angola,Yellow fever,925.0
+Angola,Diphtheria,511.0
+Angola,Mumps,23.0
+Angola,Japanese encephalitis,0.0
+Angola,Congenital rubella syndrome,0.0
+Angola,Invasive meningococcal disease,
+Anguilla,Measles,26.0
+Anguilla,Total tetanus,1.0
+Anguilla,Yellow fever,0.0
+Anguilla,Typhoid,0.0
+Anguilla,Rubella,0.0
+Anguilla,Poliomyelitis,0.0
+Anguilla,Pertussis,0.0
+Anguilla,Neonatal tetanus,0.0
+Anguilla,Mumps,0.0
+Anguilla,Invasive meningococcal disease,0.0
+Anguilla,Diphtheria,0.0
+Anguilla,Congenital rubella syndrome,0.0
+Anguilla,Japanese encephalitis,
+Antigua and Barbuda,Measles,2551.0
+Antigua and Barbuda,Pertussis,1010.0
+Antigua and Barbuda,Total tetanus,6.0
+Antigua and Barbuda,Yellow fever,0.0
+Antigua and Barbuda,Typhoid,0.0
+Antigua and Barbuda,Rubella,0.0
+Antigua and Barbuda,Poliomyelitis,0.0
+Antigua and Barbuda,Neonatal tetanus,0.0
+Antigua and Barbuda,Mumps,0.0
+Antigua and Barbuda,Japanese encephalitis,0.0
+Antigua and Barbuda,Invasive meningococcal disease,0.0
+Antigua and Barbuda,Diphtheria,0.0
+Antigua and Barbuda,Congenital rubella syndrome,0.0
+Argentina,Measles,190908.0
+Argentina,Mumps,158909.0
+Argentina,Pertussis,133102.0
+Argentina,Rubella,97369.0
+Argentina,Total tetanus,1880.0
+Argentina,Diphtheria,347.0
+Argentina,Invasive meningococcal disease,176.0
+Argentina,Neonatal tetanus,163.0
+Argentina,Poliomyelitis,75.0
+Argentina,Yellow fever,15.0
+Argentina,Typhoid,1.0
+Argentina,Congenital rubella syndrome,1.0
+Argentina,Japanese encephalitis,
+Armenia,Rubella,23553.0
+Armenia,Mumps,18746.0
+Armenia,Measles,9684.0
+Armenia,Pertussis,1960.0
+Armenia,Diphtheria,112.0
+Armenia,Total tetanus,32.0
+Armenia,Poliomyelitis,12.0
+Armenia,Invasive meningococcal disease,9.0
+Armenia,Neonatal tetanus,1.0
+Armenia,Yellow fever,0.0
+Armenia,Typhoid,0.0
+Armenia,Japanese encephalitis,0.0
+Armenia,Congenital rubella syndrome,0.0
+Aruba,Mumps,9.0
+Aruba,Pertussis,3.0
+Aruba,Invasive meningococcal disease,3.0
+Aruba,Measles,1.0
+Aruba,Yellow fever,0.0
+Aruba,Typhoid,0.0
+Aruba,Total tetanus,0.0
+Aruba,Rubella,0.0
+Aruba,Poliomyelitis,0.0
+Aruba,Neonatal tetanus,0.0
+Aruba,Diphtheria,0.0
+Aruba,Congenital rubella syndrome,0.0
+Aruba,Japanese encephalitis,
+Australia,Pertussis,345836.0
+Australia,Measles,18934.0
+Australia,Mumps,6152.0
+Australia,Rubella,1699.0
+Australia,Typhoid,942.0
+Australia,Invasive meningococcal disease,436.0
+Australia,Diphtheria,347.0
+Australia,Total tetanus,247.0
+Australia,Japanese encephalitis,58.0
+Australia,Congenital rubella syndrome,11.0
+Australia,Poliomyelitis,1.0
+Australia,Yellow fever,0.0
+Australia,Neonatal tetanus,0.0
+Austria,Pertussis,18200.0
+Austria,Measles,1860.0
+Austria,Rubella,361.0
+Austria,Diphtheria,77.0
+Austria,Invasive meningococcal disease,33.0
+Austria,Typhoid,25.0
+Austria,Poliomyelitis,1.0
+Austria,Congenital rubella syndrome,1.0
+Austria,Yellow fever,0.0
+Austria,Total tetanus,0.0
+Austria,Neonatal tetanus,0.0
+Austria,Japanese encephalitis,0.0
+Austria,Mumps,
+Azerbaijan,Measles,44874.0
+Azerbaijan,Mumps,26051.0
+Azerbaijan,Rubella,10378.0
+Azerbaijan,Diphtheria,2273.0
+Azerbaijan,Pertussis,1169.0
+Azerbaijan,Total tetanus,174.0
+Azerbaijan,Poliomyelitis,133.0
+Azerbaijan,Neonatal tetanus,13.0
+Azerbaijan,Congenital rubella syndrome,1.0
+Azerbaijan,Yellow fever,0.0
+Azerbaijan,Typhoid,0.0
+Azerbaijan,Japanese encephalitis,0.0
+Azerbaijan,Invasive meningococcal disease,0.0
+Bahamas,Measles,3793.0
+Bahamas,Pertussis,44.0
+Bahamas,Rubella,21.0
+Bahamas,Congenital rubella syndrome,21.0
+Bahamas,Total tetanus,19.0
+Bahamas,Mumps,3.0
+Bahamas,Yellow fever,0.0
+Bahamas,Typhoid,0.0
+Bahamas,Poliomyelitis,0.0
+Bahamas,Neonatal tetanus,0.0
+Bahamas,Japanese encephalitis,0.0
+Bahamas,Invasive meningococcal disease,0.0
+Bahamas,Diphtheria,0.0
+Bahrain,Measles,7458.0
+Bahrain,Mumps,945.0
+Bahrain,Pertussis,294.0
+Bahrain,Rubella,66.0
+Bahrain,Typhoid,55.0
+Bahrain,Total tetanus,21.0
+Bahrain,Poliomyelitis,13.0
+Bahrain,Neonatal tetanus,8.0
+Bahrain,Diphtheria,2.0
+Bahrain,Yellow fever,0.0
+Bahrain,Japanese encephalitis,0.0
+Bahrain,Invasive meningococcal disease,0.0
+Bahrain,Congenital rubella syndrome,0.0
+Bangladesh,Pertussis,351397.0
+Bangladesh,Measles,294421.0
+Bangladesh,Rubella,71740.0
+Bangladesh,Total tetanus,67231.0
+Bangladesh,Diphtheria,17445.0
+Bangladesh,Neonatal tetanus,15900.0
+Bangladesh,Poliomyelitis,4695.0
+Bangladesh,Japanese encephalitis,3171.0
+Bangladesh,Congenital rubella syndrome,1429.0
+Bangladesh,Yellow fever,
+Bangladesh,Typhoid,
+Bangladesh,Mumps,
+Bangladesh,Invasive meningococcal disease,
+Barbados,Measles,152.0
+Barbados,Total tetanus,72.0
+Barbados,Pertussis,47.0
+Barbados,Diphtheria,11.0
+Barbados,Rubella,1.0
+Barbados,Yellow fever,0.0
+Barbados,Typhoid,0.0
+Barbados,Poliomyelitis,0.0
+Barbados,Neonatal tetanus,0.0
+Barbados,Mumps,0.0
+Barbados,Japanese encephalitis,0.0
+Barbados,Invasive meningococcal disease,0.0
+Barbados,Congenital rubella syndrome,0.0
+Belarus,Rubella,84843.0
+Belarus,Mumps,64841.0
+Belarus,Measles,12373.0
+Belarus,Pertussis,11244.0
+Belarus,Diphtheria,1269.0
+Belarus,Invasive meningococcal disease,162.0
+Belarus,Total tetanus,63.0
+Belarus,Poliomyelitis,4.0
+Belarus,Congenital rubella syndrome,4.0
+Belarus,Typhoid,2.0
+Belarus,Yellow fever,0.0
+Belarus,Neonatal tetanus,0.0
+Belarus,Japanese encephalitis,0.0
+Belgium,Measles,188298.0
+Belgium,Pertussis,13237.0
+Belgium,Mumps,9727.0
+Belgium,Typhoid,326.0
+Belgium,Invasive meningococcal disease,228.0
+Belgium,Rubella,111.0
+Belgium,Diphtheria,86.0
+Belgium,Total tetanus,57.0
+Belgium,Poliomyelitis,4.0
+Belgium,Congenital rubella syndrome,2.0
+Belgium,Yellow fever,1.0
+Belgium,Neonatal tetanus,0.0
+Belgium,Japanese encephalitis,0.0
+Belize,Measles,1292.0
+Belize,Pertussis,192.0
+Belize,Mumps,149.0
+Belize,Rubella,136.0
+Belize,Total tetanus,28.0
+Belize,Neonatal tetanus,11.0
+Belize,Diphtheria,6.0
+Belize,Congenital rubella syndrome,4.0
+Belize,Poliomyelitis,3.0
+Belize,Yellow fever,0.0
+Belize,Typhoid,0.0
+Belize,Japanese encephalitis,0.0
+Belize,Invasive meningococcal disease,0.0
+Benin,Measles,175046.0
+Benin,Pertussis,22411.0
+Benin,Total tetanus,6150.0
+Benin,Neonatal tetanus,2395.0
+Benin,Poliomyelitis,1349.0
+Benin,Rubella,435.0
+Benin,Diphtheria,307.0
+Benin,Yellow fever,282.0
+Benin,Invasive meningococcal disease,189.0
+Benin,Japanese encephalitis,2.0
+Benin,Mumps,0.0
+Benin,Congenital rubella syndrome,0.0
+Benin,Typhoid,
+Bermuda,Measles,118.0
+Bermuda,Pertussis,44.0
+Bermuda,Mumps,5.0
+Bermuda,Total tetanus,4.0
+Bermuda,Diphtheria,1.0
+Bermuda,Yellow fever,0.0
+Bermuda,Typhoid,0.0
+Bermuda,Rubella,0.0
+Bermuda,Poliomyelitis,0.0
+Bermuda,Neonatal tetanus,0.0
+Bermuda,Japanese encephalitis,0.0
+Bermuda,Invasive meningococcal disease,0.0
+Bermuda,Congenital rubella syndrome,0.0
+Bhutan,Mumps,36071.0
+Bhutan,Measles,24314.0
+Bhutan,Rubella,4660.0
+Bhutan,Pertussis,3869.0
+Bhutan,Total tetanus,434.0
+Bhutan,Diphtheria,234.0
+Bhutan,Neonatal tetanus,166.0
+Bhutan,Poliomyelitis,59.0
+Bhutan,Japanese encephalitis,46.0
+Bhutan,Invasive meningococcal disease,7.0
+Bhutan,Congenital rubella syndrome,2.0
+Bhutan,Yellow fever,0.0
+Bhutan,Typhoid,0.0
+Bolivia (Plurinational State of),Measles,35227.0
+Bolivia (Plurinational State of),Mumps,29751.0
+Bolivia (Plurinational State of),Pertussis,17499.0
+Bolivia (Plurinational State of),Total tetanus,1395.0
+Bolivia (Plurinational State of),Rubella,1314.0
+Bolivia (Plurinational State of),Yellow fever,1015.0
+Bolivia (Plurinational State of),Neonatal tetanus,652.0
+Bolivia (Plurinational State of),Diphtheria,306.0
+Bolivia (Plurinational State of),Poliomyelitis,88.0
+Bolivia (Plurinational State of),Invasive meningococcal disease,36.0
+Bolivia (Plurinational State of),Typhoid,0.0
+Bolivia (Plurinational State of),Congenital rubella syndrome,0.0
+Bolivia (Plurinational State of),Japanese encephalitis,
+Bosnia and Herzegovina,Mumps,24028.0
+Bosnia and Herzegovina,Measles,15708.0
+Bosnia and Herzegovina,Rubella,4172.0
+Bosnia and Herzegovina,Pertussis,2173.0
+Bosnia and Herzegovina,Total tetanus,20.0
+Bosnia and Herzegovina,Invasive meningococcal disease,3.0
+Bosnia and Herzegovina,Yellow fever,0.0
+Bosnia and Herzegovina,Typhoid,0.0
+Bosnia and Herzegovina,Poliomyelitis,0.0
+Bosnia and Herzegovina,Neonatal tetanus,0.0
+Bosnia and Herzegovina,Japanese encephalitis,0.0
+Bosnia and Herzegovina,Diphtheria,0.0
+Bosnia and Herzegovina,Congenital rubella syndrome,0.0
+Botswana,Measles,52539.0
+Botswana,Rubella,2352.0
+Botswana,Pertussis,933.0
+Botswana,Mumps,439.0
+Botswana,Total tetanus,73.0
+Botswana,Neonatal tetanus,52.0
+Botswana,Diphtheria,32.0
+Botswana,Poliomyelitis,24.0
+Botswana,Congenital rubella syndrome,4.0
+Botswana,Typhoid,1.0
+Botswana,Yellow fever,0.0
+Botswana,Japanese encephalitis,0.0
+Botswana,Invasive meningococcal disease,0.0
+Brazil,Measles,876496.0
+Brazil,Pertussis,360578.0
+Brazil,Rubella,46561.0
+Brazil,Total tetanus,41538.0
+Brazil,Diphtheria,28102.0
+Brazil,Mumps,7697.0
+Brazil,Neonatal tetanus,6111.0
+Brazil,Yellow fever,3061.0
+Brazil,Poliomyelitis,2930.0
+Brazil,Invasive meningococcal disease,1648.0
+Brazil,Congenital rubella syndrome,151.0
+Brazil,Typhoid,146.0
+Brazil,Japanese encephalitis,0.0
+British Virgin Islands,Measles,285.0
+British Virgin Islands,Total tetanus,1.0
+British Virgin Islands,Mumps,1.0
+British Virgin Islands,Yellow fever,0.0
+British Virgin Islands,Typhoid,0.0
+British Virgin Islands,Rubella,0.0
+British Virgin Islands,Poliomyelitis,0.0
+British Virgin Islands,Pertussis,0.0
+British Virgin Islands,Neonatal tetanus,0.0
+British Virgin Islands,Invasive meningococcal disease,0.0
+British Virgin Islands,Diphtheria,0.0
+British Virgin Islands,Congenital rubella syndrome,0.0
+British Virgin Islands,Japanese encephalitis,
+Brunei Darussalam,Measles,4071.0
+Brunei Darussalam,Mumps,299.0
+Brunei Darussalam,Pertussis,40.0
+Brunei Darussalam,Rubella,13.0
+Brunei Darussalam,Total tetanus,11.0
+Brunei Darussalam,Typhoid,3.0
+Brunei Darussalam,Neonatal tetanus,3.0
+Brunei Darussalam,Japanese encephalitis,2.0
+Brunei Darussalam,Yellow fever,0.0
+Brunei Darussalam,Poliomyelitis,0.0
+Brunei Darussalam,Invasive meningococcal disease,0.0
+Brunei Darussalam,Diphtheria,0.0
+Brunei Darussalam,Congenital rubella syndrome,0.0
+Bulgaria,Measles,75373.0
+Bulgaria,Rubella,38378.0
+Bulgaria,Mumps,34518.0
+Bulgaria,Pertussis,4598.0
+Bulgaria,Total tetanus,226.0
+Bulgaria,Poliomyelitis,67.0
+Bulgaria,Invasive meningococcal disease,12.0
+Bulgaria,Diphtheria,9.0
+Bulgaria,Typhoid,2.0
+Bulgaria,Yellow fever,0.0
+Bulgaria,Neonatal tetanus,0.0
+Bulgaria,Japanese encephalitis,0.0
+Bulgaria,Congenital rubella syndrome,0.0
+Burkina Faso,Measles,352761.0
+Burkina Faso,Typhoid,207012.0
+Burkina Faso,Mumps,103310.0
+Burkina Faso,Pertussis,39378.0
+Burkina Faso,Total tetanus,7892.0
+Burkina Faso,Diphtheria,3698.0
+Burkina Faso,Rubella,2369.0
+Burkina Faso,Yellow fever,1776.0
+Burkina Faso,Neonatal tetanus,1560.0
+Burkina Faso,Poliomyelitis,1147.0
+Burkina Faso,Invasive meningococcal disease,671.0
+Burkina Faso,Congenital rubella syndrome,6.0
+Burkina Faso,Japanese encephalitis,0.0
+Burundi,Measles,528407.0
+Burundi,Pertussis,51345.0
+Burundi,Typhoid,13875.0
+Burundi,Total tetanus,3145.0
+Burundi,Rubella,1241.0
+Burundi,Neonatal tetanus,1200.0
+Burundi,Mumps,833.0
+Burundi,Poliomyelitis,470.0
+Burundi,Yellow fever,260.0
+Burundi,Diphtheria,112.0
+Burundi,Invasive meningococcal disease,16.0
+Burundi,Japanese encephalitis,0.0
+Burundi,Congenital rubella syndrome,0.0
+Cabo Verde,Rubella,21037.0
+Cabo Verde,Measles,16575.0
+Cabo Verde,Pertussis,978.0
+Cabo Verde,Mumps,311.0
+Cabo Verde,Total tetanus,276.0
+Cabo Verde,Poliomyelitis,153.0
+Cabo Verde,Neonatal tetanus,146.0
+Cabo Verde,Congenital rubella syndrome,62.0
+Cabo Verde,Diphtheria,10.0
+Cabo Verde,Yellow fever,0.0
+Cabo Verde,Typhoid,0.0
+Cabo Verde,Japanese encephalitis,0.0
+Cabo Verde,Invasive meningococcal disease,0.0
+Cambodia,Pertussis,335329.0
+Cambodia,Measles,329941.0
+Cambodia,Total tetanus,17783.0
+Cambodia,Rubella,7282.0
+Cambodia,Diphtheria,6248.0
+Cambodia,Poliomyelitis,6175.0
+Cambodia,Neonatal tetanus,2085.0
+Cambodia,Japanese encephalitis,1191.0
+Cambodia,Congenital rubella syndrome,67.0
+Cambodia,Mumps,17.0
+Cambodia,Yellow fever,0.0
+Cambodia,Typhoid,
+Cambodia,Invasive meningococcal disease,
+Cameroon,Measles,468154.0
+Cameroon,Pertussis,77502.0
+Cameroon,Neonatal tetanus,7523.0
+Cameroon,Total tetanus,6090.0
+Cameroon,Rubella,2971.0
+Cameroon,Poliomyelitis,1904.0
+Cameroon,Yellow fever,506.0
+Cameroon,Diphtheria,465.0
+Cameroon,Congenital rubella syndrome,1.0
+Cameroon,Typhoid,
+Cameroon,Mumps,
+Cameroon,Japanese encephalitis,
+Cameroon,Invasive meningococcal disease,
+Canada,Pertussis,137860.0
+Canada,Measles,70415.0
+Canada,Mumps,7481.0
+Canada,Rubella,413.0
+Canada,Invasive meningococcal disease,310.0
+Canada,Diphtheria,185.0
+Canada,Total tetanus,151.0
+Canada,Yellow fever,20.0
+Canada,Congenital rubella syndrome,12.0
+Canada,Poliomyelitis,6.0
+Canada,Neonatal tetanus,0.0
+Canada,Japanese encephalitis,0.0
+Canada,Typhoid,
+Cayman Islands,Measles,40.0
+Cayman Islands,Pertussis,18.0
+Cayman Islands,Total tetanus,2.0
+Cayman Islands,Yellow fever,0.0
+Cayman Islands,Typhoid,0.0
+Cayman Islands,Rubella,0.0
+Cayman Islands,Poliomyelitis,0.0
+Cayman Islands,Neonatal tetanus,0.0
+Cayman Islands,Mumps,0.0
+Cayman Islands,Japanese encephalitis,0.0
+Cayman Islands,Invasive meningococcal disease,0.0
+Cayman Islands,Diphtheria,0.0
+Cayman Islands,Congenital rubella syndrome,0.0
+Central African Republic,Measles,66643.0
+Central African Republic,Typhoid,46403.0
+Central African Republic,Pertussis,21495.0
+Central African Republic,Total tetanus,5440.0
+Central African Republic,Neonatal tetanus,2308.0
+Central African Republic,Rubella,1708.0
+Central African Republic,Invasive meningococcal disease,1260.0
+Central African Republic,Poliomyelitis,1016.0
+Central African Republic,Diphtheria,454.0
+Central African Republic,Yellow fever,263.0
+Central African Republic,Mumps,0.0
+Central African Republic,Japanese encephalitis,0.0
+Central African Republic,Congenital rubella syndrome,0.0
+Chad,Measles,289056.0
+Chad,Pertussis,31037.0
+Chad,Total tetanus,18811.0
+Chad,Rubella,15353.0
+Chad,Neonatal tetanus,15024.0
+Chad,Poliomyelitis,1438.0
+Chad,Diphtheria,690.0
+Chad,Yellow fever,688.0
+Chad,Typhoid,
+Chad,Mumps,
+Chad,Japanese encephalitis,
+Chad,Invasive meningococcal disease,
+Chad,Congenital rubella syndrome,
+Chile,Measles,125928.0
+Chile,Mumps,57875.0
+Chile,Pertussis,48087.0
+Chile,Rubella,15811.0
+Chile,Diphtheria,1773.0
+Chile,Typhoid,994.0
+Chile,Total tetanus,577.0
+Chile,Invasive meningococcal disease,130.0
+Chile,Neonatal tetanus,42.0
+Chile,Congenital rubella syndrome,18.0
+Chile,Poliomyelitis,3.0
+Chile,Yellow fever,1.0
+Chile,Japanese encephalitis,0.0
+China,Measles,7284318.0
+China,Mumps,4624682.0
+China,Pertussis,2744255.0
+China,Rubella,584882.0
+China,Poliomyelitis,48661.0
+China,Neonatal tetanus,41115.0
+China,Diphtheria,39915.0
+China,Japanese encephalitis,33675.0
+China,Total tetanus,7650.0
+China,Typhoid,2004.0
+China,Invasive meningococcal disease,172.0
+China,Yellow fever,0.0
+China,Congenital rubella syndrome,
+"China, Hong Kong SAR",Measles,11470.0
+"China, Hong Kong SAR",Rubella,2879.0
+"China, Hong Kong SAR",Mumps,1751.0
+"China, Hong Kong SAR",Pertussis,725.0
+"China, Hong Kong SAR",Total tetanus,411.0
+"China, Hong Kong SAR",Typhoid,130.0
+"China, Hong Kong SAR",Japanese encephalitis,29.0
+"China, Hong Kong SAR",Congenital rubella syndrome,8.0
+"China, Hong Kong SAR",Poliomyelitis,7.0
+"China, Hong Kong SAR",Invasive meningococcal disease,7.0
+"China, Hong Kong SAR",Neonatal tetanus,5.0
+"China, Hong Kong SAR",Diphtheria,3.0
+"China, Hong Kong SAR",Yellow fever,0.0
+"China, Macao SAR",Measles,1633.0
+"China, Macao SAR",Mumps,1497.0
+"China, Macao SAR",Rubella,179.0
+"China, Macao SAR",Total tetanus,28.0
+"China, Macao SAR",Pertussis,23.0
+"China, Macao SAR",Diphtheria,2.0
+"China, Macao SAR",Typhoid,1.0
+"China, Macao SAR",Neonatal tetanus,1.0
+"China, Macao SAR",Congenital rubella syndrome,1.0
+"China, Macao SAR",Yellow fever,0.0
+"China, Macao SAR",Poliomyelitis,0.0
+"China, Macao SAR",Japanese encephalitis,0.0
+"China, Macao SAR",Invasive meningococcal disease,0.0
+Colombia,Mumps,166792.0
+Colombia,Measles,163690.0
+Colombia,Pertussis,73915.0
+Colombia,Total tetanus,6690.0
+Colombia,Rubella,4734.0
+Colombia,Neonatal tetanus,2430.0
+Colombia,Poliomyelitis,1072.0
+Colombia,Diphtheria,1043.0
+Colombia,Typhoid,453.0
+Colombia,Invasive meningococcal disease,434.0
+Colombia,Yellow fever,326.0
+Colombia,Congenital rubella syndrome,207.0
+Colombia,Japanese encephalitis,
+Comoros,Measles,5423.0
+Comoros,Mumps,355.0
+Comoros,Neonatal tetanus,138.0
+Comoros,Rubella,96.0
+Comoros,Total tetanus,94.0
+Comoros,Typhoid,26.0
+Comoros,Poliomyelitis,9.0
+Comoros,Pertussis,3.0
+Comoros,Yellow fever,0.0
+Comoros,Japanese encephalitis,0.0
+Comoros,Invasive meningococcal disease,0.0
+Comoros,Diphtheria,0.0
+Comoros,Congenital rubella syndrome,0.0
+Congo,Measles,132022.0
+Congo,Pertussis,19830.0
+Congo,Total tetanus,1221.0
+Congo,Poliomyelitis,718.0
+Congo,Rubella,491.0
+Congo,Neonatal tetanus,491.0
+Congo,Typhoid,466.0
+Congo,Yellow fever,204.0
+Congo,Diphtheria,14.0
+Congo,Mumps,0.0
+Congo,Japanese encephalitis,0.0
+Congo,Congenital rubella syndrome,0.0
+Congo,Invasive meningococcal disease,
+Cook Islands,Measles,1561.0
+Cook Islands,Mumps,421.0
+Cook Islands,Pertussis,8.0
+Cook Islands,Total tetanus,1.0
+Cook Islands,Yellow fever,0.0
+Cook Islands,Typhoid,0.0
+Cook Islands,Rubella,0.0
+Cook Islands,Poliomyelitis,0.0
+Cook Islands,Neonatal tetanus,0.0
+Cook Islands,Japanese encephalitis,0.0
+Cook Islands,Diphtheria,0.0
+Cook Islands,Congenital rubella syndrome,0.0
+Cook Islands,Invasive meningococcal disease,
+Costa Rica,Measles,19472.0
+Costa Rica,Pertussis,8738.0
+Costa Rica,Mumps,2457.0
+Costa Rica,Rubella,1498.0
+Costa Rica,Total tetanus,115.0
+Costa Rica,Congenital rubella syndrome,46.0
+Costa Rica,Neonatal tetanus,12.0
+Costa Rica,Invasive meningococcal disease,3.0
+Costa Rica,Typhoid,1.0
+Costa Rica,Yellow fever,0.0
+Costa Rica,Poliomyelitis,0.0
+Costa Rica,Japanese encephalitis,0.0
+Costa Rica,Diphtheria,0.0
+Croatia,Pertussis,11181.0
+Croatia,Measles,2824.0
+Croatia,Mumps,1579.0
+Croatia,Total tetanus,214.0
+Croatia,Rubella,86.0
+Croatia,Invasive meningococcal disease,55.0
+Croatia,Typhoid,5.0
+Croatia,Neonatal tetanus,3.0
+Croatia,Yellow fever,0.0
+Croatia,Poliomyelitis,0.0
+Croatia,Japanese encephalitis,0.0
+Croatia,Diphtheria,0.0
+Croatia,Congenital rubella syndrome,0.0
+Cuba,Measles,59542.0
+Cuba,Pertussis,2635.0
+Cuba,Mumps,1790.0
+Cuba,Total tetanus,212.0
+Cuba,Rubella,18.0
+Cuba,Invasive meningococcal disease,13.0
+Cuba,Typhoid,1.0
+Cuba,Yellow fever,0.0
+Cuba,Poliomyelitis,0.0
+Cuba,Neonatal tetanus,0.0
+Cuba,Japanese encephalitis,0.0
+Cuba,Diphtheria,0.0
+Cuba,Congenital rubella syndrome,0.0
+Curaçao,Pertussis,4.0
+Curaçao,Mumps,2.0
+Curaçao,Measles,1.0
+Curaçao,Yellow fever,0.0
+Curaçao,Typhoid,0.0
+Curaçao,Rubella,0.0
+Curaçao,Poliomyelitis,0.0
+Curaçao,Neonatal tetanus,0.0
+Curaçao,Diphtheria,0.0
+Curaçao,Congenital rubella syndrome,0.0
+Curaçao,Japanese encephalitis,
+Cyprus,Measles,357.0
+Cyprus,Pertussis,313.0
+Cyprus,Mumps,45.0
+Cyprus,Typhoid,9.0
+Cyprus,Total tetanus,9.0
+Cyprus,Rubella,7.0
+Cyprus,Poliomyelitis,2.0
+Cyprus,Invasive meningococcal disease,2.0
+Cyprus,Yellow fever,0.0
+Cyprus,Neonatal tetanus,0.0
+Cyprus,Japanese encephalitis,0.0
+Cyprus,Diphtheria,0.0
+Cyprus,Congenital rubella syndrome,0.0
+Czechia,Mumps,30955.0
+Czechia,Pertussis,15416.0
+Czechia,Rubella,5908.0
+Czechia,Measles,5066.0
+Czechia,Invasive meningococcal disease,77.0
+Czechia,Total tetanus,21.0
+Czechia,Diphtheria,14.0
+Czechia,Typhoid,13.0
+Czechia,Japanese encephalitis,3.0
+Czechia,Congenital rubella syndrome,2.0
+Czechia,Yellow fever,1.0
+Czechia,Poliomyelitis,0.0
+Czechia,Neonatal tetanus,0.0
+Côte d'Ivoire,Typhoid,537333.0
+Côte d'Ivoire,Measles,314895.0
+Côte d'Ivoire,Pertussis,31472.0
+Côte d'Ivoire,Mumps,7117.0
+Côte d'Ivoire,Total tetanus,4913.0
+Côte d'Ivoire,Neonatal tetanus,4797.0
+Côte d'Ivoire,Rubella,1947.0
+Côte d'Ivoire,Yellow fever,759.0
+Côte d'Ivoire,Poliomyelitis,585.0
+Côte d'Ivoire,Invasive meningococcal disease,367.0
+Côte d'Ivoire,Diphtheria,58.0
+Côte d'Ivoire,Congenital rubella syndrome,1.0
+Côte d'Ivoire,Japanese encephalitis,
+Democratic People's Republic of Korea,Pertussis,15791.0
+Democratic People's Republic of Korea,Mumps,8171.0
+Democratic People's Republic of Korea,Total tetanus,5479.0
+Democratic People's Republic of Korea,Measles,3561.0
+Democratic People's Republic of Korea,Rubella,1960.0
+Democratic People's Republic of Korea,Japanese encephalitis,134.0
+Democratic People's Republic of Korea,Poliomyelitis,59.0
+Democratic People's Republic of Korea,Diphtheria,55.0
+Democratic People's Republic of Korea,Neonatal tetanus,24.0
+Democratic People's Republic of Korea,Yellow fever,0.0
+Democratic People's Republic of Korea,Typhoid,0.0
+Democratic People's Republic of Korea,Invasive meningococcal disease,0.0
+Democratic People's Republic of Korea,Congenital rubella syndrome,0.0
+Democratic Republic of the Congo,Typhoid,2042492.0
+Democratic Republic of the Congo,Measles,1968574.0
+Democratic Republic of the Congo,Pertussis,99358.0
+Democratic Republic of the Congo,Total tetanus,26535.0
+Democratic Republic of the Congo,Neonatal tetanus,15817.0
+Democratic Republic of the Congo,Rubella,11274.0
+Democratic Republic of the Congo,Poliomyelitis,4761.0
+Democratic Republic of the Congo,Yellow fever,2926.0
+Democratic Republic of the Congo,Diphtheria,229.0
+Democratic Republic of the Congo,Congenital rubella syndrome,173.0
+Democratic Republic of the Congo,Mumps,
+Democratic Republic of the Congo,Japanese encephalitis,
+Democratic Republic of the Congo,Invasive meningococcal disease,
+Denmark,Measles,179071.0
+Denmark,Pertussis,47651.0
+Denmark,Mumps,399.0
+Denmark,Invasive meningococcal disease,77.0
+Denmark,Total tetanus,55.0
+Denmark,Typhoid,54.0
+Denmark,Diphtheria,5.0
+Denmark,Rubella,3.0
+Denmark,Poliomyelitis,2.0
+Denmark,Yellow fever,0.0
+Denmark,Neonatal tetanus,0.0
+Denmark,Japanese encephalitis,0.0
+Denmark,Congenital rubella syndrome,0.0
+Djibouti,Measles,10735.0
+Djibouti,Pertussis,909.0
+Djibouti,Diphtheria,424.0
+Djibouti,Poliomyelitis,275.0
+Djibouti,Total tetanus,169.0
+Djibouti,Rubella,168.0
+Djibouti,Typhoid,70.0
+Djibouti,Congenital rubella syndrome,21.0
+Djibouti,Neonatal tetanus,9.0
+Djibouti,Yellow fever,0.0
+Djibouti,Mumps,0.0
+Djibouti,Japanese encephalitis,0.0
+Djibouti,Invasive meningococcal disease,0.0
+Dominica,Measles,447.0
+Dominica,Pertussis,20.0
+Dominica,Total tetanus,17.0
+Dominica,Neonatal tetanus,4.0
+Dominica,Diphtheria,2.0
+Dominica,Yellow fever,0.0
+Dominica,Typhoid,0.0
+Dominica,Rubella,0.0
+Dominica,Poliomyelitis,0.0
+Dominica,Mumps,0.0
+Dominica,Japanese encephalitis,0.0
+Dominica,Invasive meningococcal disease,0.0
+Dominica,Congenital rubella syndrome,0.0
+Dominican Republic,Measles,55780.0
+Dominican Republic,Mumps,22434.0
+Dominican Republic,Pertussis,3620.0
+Dominican Republic,Total tetanus,2517.0
+Dominican Republic,Diphtheria,1681.0
+Dominican Republic,Rubella,1294.0
+Dominican Republic,Poliomyelitis,314.0
+Dominican Republic,Neonatal tetanus,198.0
+Dominican Republic,Invasive meningococcal disease,17.0
+Dominican Republic,Yellow fever,0.0
+Dominican Republic,Japanese encephalitis,0.0
+Dominican Republic,Congenital rubella syndrome,0.0
+Dominican Republic,Typhoid,
+Eastern Mediterranean Region,Measles,3738127.0
+Eastern Mediterranean Region,Pertussis,1410950.0
+Eastern Mediterranean Region,Mumps,526637.0
+Eastern Mediterranean Region,Total tetanus,266038.0
+Eastern Mediterranean Region,Neonatal tetanus,138255.0
+Eastern Mediterranean Region,Diphtheria,118963.0
+Eastern Mediterranean Region,Rubella,87334.0
+Eastern Mediterranean Region,Poliomyelitis,73858.0
+Eastern Mediterranean Region,Typhoid,46320.0
+Eastern Mediterranean Region,Congenital rubella syndrome,3154.0
+Eastern Mediterranean Region,Invasive meningococcal disease,2364.0
+Eastern Mediterranean Region,Yellow fever,0.0
+Eastern Mediterranean Region,Japanese encephalitis,0.0
+Ecuador,Measles,49989.0
+Ecuador,Mumps,18723.0
+Ecuador,Pertussis,11854.0
+Ecuador,Typhoid,4898.0
+Ecuador,Total tetanus,2996.0
+Ecuador,Rubella,2756.0
+Ecuador,Neonatal tetanus,1315.0
+Ecuador,Diphtheria,1088.0
+Ecuador,Yellow fever,107.0
+Ecuador,Poliomyelitis,86.0
+Ecuador,Japanese encephalitis,0.0
+Ecuador,Invasive meningococcal disease,0.0
+Ecuador,Congenital rubella syndrome,0.0
+Egypt,Total tetanus,110599.0
+Egypt,Measles,77741.0
+Egypt,Neonatal tetanus,68714.0
+Egypt,Mumps,58688.0
+Egypt,Rubella,17476.0
+Egypt,Poliomyelitis,12435.0
+Egypt,Typhoid,7982.0
+Egypt,Diphtheria,5451.0
+Egypt,Pertussis,291.0
+Egypt,Congenital rubella syndrome,18.0
+Egypt,Invasive meningococcal disease,10.0
+Egypt,Yellow fever,0.0
+Egypt,Japanese encephalitis,0.0
+El Salvador,Measles,29148.0
+El Salvador,Mumps,11025.0
+El Salvador,Pertussis,9129.0
+El Salvador,Typhoid,2674.0
+El Salvador,Rubella,1056.0
+El Salvador,Total tetanus,799.0
+El Salvador,Neonatal tetanus,624.0
+El Salvador,Poliomyelitis,375.0
+El Salvador,Diphtheria,70.0
+El Salvador,Invasive meningococcal disease,6.0
+El Salvador,Yellow fever,0.0
+El Salvador,Japanese encephalitis,0.0
+El Salvador,Congenital rubella syndrome,0.0
+Equatorial Guinea,Measles,36432.0
+Equatorial Guinea,Pertussis,1147.0
+Equatorial Guinea,Neonatal tetanus,223.0
+Equatorial Guinea,Rubella,198.0
+Equatorial Guinea,Total tetanus,100.0
+Equatorial Guinea,Poliomyelitis,46.0
+Equatorial Guinea,Yellow fever,33.0
+Equatorial Guinea,Diphtheria,3.0
+Equatorial Guinea,Mumps,0.0
+Equatorial Guinea,Japanese encephalitis,0.0
+Equatorial Guinea,Congenital rubella syndrome,0.0
+Equatorial Guinea,Typhoid,
+Equatorial Guinea,Invasive meningococcal disease,
+Eritrea,Mumps,30845.0
+Eritrea,Measles,8525.0
+Eritrea,Pertussis,1630.0
+Eritrea,Rubella,1575.0
+Eritrea,Total tetanus,231.0
+Eritrea,Poliomyelitis,93.0
+Eritrea,Diphtheria,32.0
+Eritrea,Neonatal tetanus,22.0
+Eritrea,Congenital rubella syndrome,12.0
+Eritrea,Yellow fever,0.0
+Eritrea,Typhoid,0.0
+Eritrea,Japanese encephalitis,0.0
+Eritrea,Invasive meningococcal disease,
+Estonia,Pertussis,8206.0
+Estonia,Rubella,1076.0
+Estonia,Measles,958.0
+Estonia,Mumps,893.0
+Estonia,Diphtheria,68.0
+Estonia,Total tetanus,24.0
+Estonia,Invasive meningococcal disease,9.0
+Estonia,Typhoid,7.0
+Estonia,Yellow fever,0.0
+Estonia,Poliomyelitis,0.0
+Estonia,Neonatal tetanus,0.0
+Estonia,Japanese encephalitis,0.0
+Estonia,Congenital rubella syndrome,0.0
+Eswatini,Measles,49394.0
+Eswatini,Mumps,48349.0
+Eswatini,Pertussis,4712.0
+Eswatini,Total tetanus,1764.0
+Eswatini,Rubella,682.0
+Eswatini,Neonatal tetanus,404.0
+Eswatini,Poliomyelitis,293.0
+Eswatini,Congenital rubella syndrome,2.0
+Eswatini,Yellow fever,0.0
+Eswatini,Typhoid,0.0
+Eswatini,Japanese encephalitis,0.0
+Eswatini,Invasive meningococcal disease,0.0
+Eswatini,Diphtheria,0.0
+Ethiopia,Typhoid,1009802.0
+Ethiopia,Measles,265875.0
+Ethiopia,Pertussis,110898.0
+Ethiopia,Invasive meningococcal disease,38918.0
+Ethiopia,Mumps,34298.0
+Ethiopia,Diphtheria,23682.0
+Ethiopia,Total tetanus,10216.0
+Ethiopia,Rubella,7673.0
+Ethiopia,Poliomyelitis,3136.0
+Ethiopia,Neonatal tetanus,2414.0
+Ethiopia,Yellow fever,314.0
+Ethiopia,Congenital rubella syndrome,7.0
+Ethiopia,Japanese encephalitis,0.0
+European Region,Measles,6713019.0
+European Region,Rubella,4012140.0
+European Region,Pertussis,2736437.0
+European Region,Mumps,2185240.0
+European Region,Diphtheria,170590.0
+European Region,Total tetanus,19194.0
+European Region,Invasive meningococcal disease,8852.0
+European Region,Poliomyelitis,3651.0
+European Region,Typhoid,3118.0
+European Region,Neonatal tetanus,1199.0
+European Region,Congenital rubella syndrome,445.0
+European Region,Yellow fever,11.0
+European Region,Japanese encephalitis,8.0
+Fiji,Measles,9812.0
+Fiji,Mumps,1972.0
+Fiji,Rubella,174.0
+Fiji,Typhoid,87.0
+Fiji,Pertussis,84.0
+Fiji,Total tetanus,18.0
+Fiji,Neonatal tetanus,5.0
+Fiji,Yellow fever,0.0
+Fiji,Poliomyelitis,0.0
+Fiji,Japanese encephalitis,0.0
+Fiji,Diphtheria,0.0
+Fiji,Congenital rubella syndrome,0.0
+Fiji,Invasive meningococcal disease,
+Finland,Measles,20112.0
+Finland,Pertussis,18755.0
+Finland,Mumps,81.0
+Finland,Total tetanus,56.0
+Finland,Typhoid,51.0
+Finland,Invasive meningococcal disease,24.0
+Finland,Diphtheria,14.0
+Finland,Rubella,13.0
+Finland,Poliomyelitis,8.0
+Finland,Congenital rubella syndrome,2.0
+Finland,Yellow fever,0.0
+Finland,Neonatal tetanus,0.0
+Finland,Japanese encephalitis,0.0
+France,Measles,643369.0
+France,Mumps,59647.0
+France,Pertussis,1877.0
+France,Total tetanus,1699.0
+France,Invasive meningococcal disease,1222.0
+France,Typhoid,212.0
+France,Diphtheria,194.0
+France,Poliomyelitis,49.0
+France,Congenital rubella syndrome,8.0
+France,Yellow fever,2.0
+France,Rubella,0.0
+France,Neonatal tetanus,0.0
+France,Japanese encephalitis,0.0
+French Polynesia,Measles,7212.0
+French Polynesia,Pertussis,316.0
+French Polynesia,Mumps,126.0
+French Polynesia,Total tetanus,33.0
+French Polynesia,Rubella,10.0
+French Polynesia,Invasive meningococcal disease,6.0
+French Polynesia,Diphtheria,3.0
+French Polynesia,Poliomyelitis,1.0
+French Polynesia,Neonatal tetanus,1.0
+French Polynesia,Yellow fever,0.0
+French Polynesia,Typhoid,0.0
+French Polynesia,Japanese encephalitis,0.0
+French Polynesia,Congenital rubella syndrome,0.0
+Gabon,Measles,47607.0
+Gabon,Pertussis,11766.0
+Gabon,Mumps,934.0
+Gabon,Total tetanus,644.0
+Gabon,Diphtheria,551.0
+Gabon,Rubella,390.0
+Gabon,Poliomyelitis,273.0
+Gabon,Neonatal tetanus,134.0
+Gabon,Yellow fever,111.0
+Gabon,Congenital rubella syndrome,0.0
+Gabon,Typhoid,
+Gabon,Japanese encephalitis,
+Gabon,Invasive meningococcal disease,
+Gambia,Measles,14137.0
+Gambia,Total tetanus,1596.0
+Gambia,Poliomyelitis,395.0
+Gambia,Pertussis,338.0
+Gambia,Rubella,261.0
+Gambia,Neonatal tetanus,245.0
+Gambia,Yellow fever,10.0
+Gambia,Typhoid,0.0
+Gambia,Mumps,0.0
+Gambia,Japanese encephalitis,0.0
+Gambia,Invasive meningococcal disease,0.0
+Gambia,Diphtheria,0.0
+Gambia,Congenital rubella syndrome,0.0
+Georgia,Measles,29857.0
+Georgia,Rubella,11086.0
+Georgia,Mumps,8366.0
+Georgia,Pertussis,5523.0
+Georgia,Diphtheria,1755.0
+Georgia,Typhoid,208.0
+Georgia,Total tetanus,151.0
+Georgia,Invasive meningococcal disease,19.0
+Georgia,Poliomyelitis,7.0
+Georgia,Congenital rubella syndrome,2.0
+Georgia,Yellow fever,1.0
+Georgia,Neonatal tetanus,0.0
+Georgia,Japanese encephalitis,0.0
+Germany,Measles,85086.0
+Germany,Pertussis,84063.0
+Germany,Mumps,5098.0
+Germany,Diphtheria,608.0
+Germany,Invasive meningococcal disease,595.0
+Germany,Rubella,527.0
+Germany,Total tetanus,333.0
+Germany,Typhoid,320.0
+Germany,Poliomyelitis,56.0
+Germany,Congenital rubella syndrome,21.0
+Germany,Yellow fever,0.0
+Germany,Neonatal tetanus,0.0
+Germany,Japanese encephalitis,
+Ghana,Measles,807186.0
+Ghana,Typhoid,731036.0
+Ghana,Mumps,159958.0
+Ghana,Pertussis,88700.0
+Ghana,Total tetanus,16740.0
+Ghana,Rubella,3222.0
+Ghana,Poliomyelitis,1713.0
+Ghana,Neonatal tetanus,1190.0
+Ghana,Yellow fever,1135.0
+Ghana,Diphtheria,434.0
+Ghana,Invasive meningococcal disease,37.0
+Ghana,Congenital rubella syndrome,9.0
+Ghana,Japanese encephalitis,0.0
+Global,Measles,48012198.0
+Global,Pertussis,17695690.0
+Global,Mumps,12105277.0
+Global,Typhoid,10384321.0
+Global,Rubella,5550827.0
+Global,Total tetanus,1629159.0
+Global,Diphtheria,969413.0
+Global,Poliomyelitis,541086.0
+Global,Neonatal tetanus,501262.0
+Global,Japanese encephalitis,75155.0
+Global,Invasive meningococcal disease,69058.0
+Global,Yellow fever,44226.0
+Global,Congenital rubella syndrome,9547.0
+Greece,Measles,69152.0
+Greece,Pertussis,24068.0
+Greece,Rubella,1501.0
+Greece,Mumps,396.0
+Greece,Total tetanus,311.0
+Greece,Invasive meningococcal disease,53.0
+Greece,Typhoid,18.0
+Greece,Poliomyelitis,13.0
+Greece,Congenital rubella syndrome,6.0
+Greece,Diphtheria,5.0
+Greece,Neonatal tetanus,2.0
+Greece,Yellow fever,0.0
+Greece,Japanese encephalitis,0.0
+Grenada,Measles,2104.0
+Grenada,Total tetanus,25.0
+Grenada,Pertussis,22.0
+Grenada,Mumps,2.0
+Grenada,Diphtheria,2.0
+Grenada,Yellow fever,0.0
+Grenada,Typhoid,0.0
+Grenada,Rubella,0.0
+Grenada,Poliomyelitis,0.0
+Grenada,Neonatal tetanus,0.0
+Grenada,Invasive meningococcal disease,0.0
+Grenada,Congenital rubella syndrome,0.0
+Grenada,Japanese encephalitis,
+Guam,Mumps,1164.0
+Guam,Measles,485.0
+Guam,Pertussis,243.0
+Guam,Total tetanus,6.0
+Guam,Rubella,1.0
+Guam,Neonatal tetanus,1.0
+Guam,Yellow fever,0.0
+Guam,Typhoid,0.0
+Guam,Poliomyelitis,0.0
+Guam,Japanese encephalitis,0.0
+Guam,Invasive meningococcal disease,0.0
+Guam,Diphtheria,0.0
+Guam,Congenital rubella syndrome,0.0
+Guatemala,Measles,32281.0
+Guatemala,Pertussis,14388.0
+Guatemala,Mumps,8269.0
+Guatemala,Total tetanus,1195.0
+Guatemala,Poliomyelitis,811.0
+Guatemala,Neonatal tetanus,578.0
+Guatemala,Rubella,559.0
+Guatemala,Diphtheria,93.0
+Guatemala,Typhoid,39.0
+Guatemala,Congenital rubella syndrome,8.0
+Guatemala,Yellow fever,0.0
+Guatemala,Japanese encephalitis,
+Guatemala,Invasive meningococcal disease,
+Guinea,Measles,179327.0
+Guinea,Pertussis,20281.0
+Guinea,Total tetanus,9191.0
+Guinea,Neonatal tetanus,5496.0
+Guinea,Poliomyelitis,1290.0
+Guinea,Yellow fever,1073.0
+Guinea,Rubella,991.0
+Guinea,Diphtheria,618.0
+Guinea,Mumps,0.0
+Guinea,Japanese encephalitis,0.0
+Guinea,Congenital rubella syndrome,0.0
+Guinea,Typhoid,
+Guinea,Invasive meningococcal disease,
+Guinea-Bissau,Measles,26359.0
+Guinea-Bissau,Pertussis,14390.0
+Guinea-Bissau,Total tetanus,2429.0
+Guinea-Bissau,Typhoid,1654.0
+Guinea-Bissau,Neonatal tetanus,1134.0
+Guinea-Bissau,Rubella,316.0
+Guinea-Bissau,Poliomyelitis,276.0
+Guinea-Bissau,Diphtheria,55.0
+Guinea-Bissau,Yellow fever,19.0
+Guinea-Bissau,Invasive meningococcal disease,8.0
+Guinea-Bissau,Mumps,0.0
+Guinea-Bissau,Japanese encephalitis,0.0
+Guinea-Bissau,Congenital rubella syndrome,0.0
+Guyana,Total tetanus,3111.0
+Guyana,Neonatal tetanus,3030.0
+Guyana,Measles,1891.0
+Guyana,Typhoid,497.0
+Guyana,Pertussis,448.0
+Guyana,Rubella,146.0
+Guyana,Invasive meningococcal disease,4.0
+Guyana,Diphtheria,1.0
+Guyana,Yellow fever,0.0
+Guyana,Poliomyelitis,0.0
+Guyana,Mumps,0.0
+Guyana,Japanese encephalitis,0.0
+Guyana,Congenital rubella syndrome,0.0
+Haiti,Measles,15517.0
+Haiti,Pertussis,13071.0
+Haiti,Total tetanus,3330.0
+Haiti,Neonatal tetanus,1423.0
+Haiti,Diphtheria,746.0
+Haiti,Mumps,632.0
+Haiti,Typhoid,584.0
+Haiti,Poliomyelitis,400.0
+Haiti,Rubella,36.0
+Haiti,Yellow fever,0.0
+Haiti,Invasive meningococcal disease,0.0
+Haiti,Congenital rubella syndrome,0.0
+Haiti,Japanese encephalitis,
+Honduras,Measles,43249.0
+Honduras,Mumps,33385.0
+Honduras,Pertussis,11366.0
+Honduras,Rubella,1894.0
+Honduras,Total tetanus,984.0
+Honduras,Neonatal tetanus,256.0
+Honduras,Poliomyelitis,126.0
+Honduras,Typhoid,90.0
+Honduras,Congenital rubella syndrome,13.0
+Honduras,Diphtheria,2.0
+Honduras,Yellow fever,0.0
+Honduras,Invasive meningococcal disease,0.0
+Honduras,Japanese encephalitis,
+Hungary,Measles,15958.0
+Hungary,Mumps,1066.0
+Hungary,Pertussis,582.0
+Hungary,Total tetanus,569.0
+Hungary,Rubella,458.0
+Hungary,Invasive meningococcal disease,120.0
+Hungary,Diphtheria,11.0
+Hungary,Typhoid,5.0
+Hungary,Poliomyelitis,4.0
+Hungary,Neonatal tetanus,1.0
+Hungary,Congenital rubella syndrome,1.0
+Hungary,Yellow fever,0.0
+Hungary,Japanese encephalitis,0.0
+Iceland,Pertussis,1728.0
+Iceland,Measles,870.0
+Iceland,Mumps,219.0
+Iceland,Rubella,3.0
+Iceland,Invasive meningococcal disease,2.0
+Iceland,Yellow fever,0.0
+Iceland,Typhoid,0.0
+Iceland,Total tetanus,0.0
+Iceland,Poliomyelitis,0.0
+Iceland,Neonatal tetanus,0.0
+Iceland,Japanese encephalitis,0.0
+Iceland,Diphtheria,0.0
+Iceland,Congenital rubella syndrome,0.0
+India,Pertussis,3278858.0
+India,Measles,3005661.0
+India,Typhoid,976661.0
+India,Total tetanus,555365.0
+India,Diphtheria,337466.0
+India,Poliomyelitis,293708.0
+India,Neonatal tetanus,81099.0
+India,Rubella,38271.0
+India,Japanese encephalitis,22892.0
+India,Mumps,959.0
+India,Congenital rubella syndrome,374.0
+India,Yellow fever,0.0
+India,Invasive meningococcal disease,
+Indonesia,Measles,1206908.0
+Indonesia,Pertussis,284560.0
+Indonesia,Total tetanus,87482.0
+Indonesia,Diphtheria,39816.0
+Indonesia,Rubella,21886.0
+Indonesia,Neonatal tetanus,18032.0
+Indonesia,Poliomyelitis,5813.0
+Indonesia,Congenital rubella syndrome,1896.0
+Indonesia,Japanese encephalitis,467.0
+Indonesia,Yellow fever,0.0
+Indonesia,Invasive meningococcal disease,0.0
+Indonesia,Typhoid,
+Indonesia,Mumps,
+Iran (Islamic Republic of),Measles,345179.0
+Iran (Islamic Republic of),Pertussis,142134.0
+Iran (Islamic Republic of),Mumps,10417.0
+Iran (Islamic Republic of),Diphtheria,4241.0
+Iran (Islamic Republic of),Total tetanus,2392.0
+Iran (Islamic Republic of),Rubella,1591.0
+Iran (Islamic Republic of),Poliomyelitis,1321.0
+Iran (Islamic Republic of),Typhoid,804.0
+Iran (Islamic Republic of),Neonatal tetanus,561.0
+Iran (Islamic Republic of),Invasive meningococcal disease,83.0
+Iran (Islamic Republic of),Congenital rubella syndrome,52.0
+Iran (Islamic Republic of),Yellow fever,0.0
+Iran (Islamic Republic of),Japanese encephalitis,0.0
+Iraq,Measles,455588.0
+Iraq,Mumps,232258.0
+Iraq,Pertussis,161218.0
+Iraq,Diphtheria,11344.0
+Iraq,Total tetanus,10550.0
+Iraq,Rubella,7124.0
+Iraq,Neonatal tetanus,6819.0
+Iraq,Poliomyelitis,3327.0
+Iraq,Typhoid,2674.0
+Iraq,Invasive meningococcal disease,752.0
+Iraq,Congenital rubella syndrome,129.0
+Iraq,Yellow fever,0.0
+Iraq,Japanese encephalitis,0.0
+Ireland,Measles,39174.0
+Ireland,Pertussis,25820.0
+Ireland,Mumps,18241.0
+Ireland,Rubella,430.0
+Ireland,Typhoid,125.0
+Ireland,Invasive meningococcal disease,105.0
+Ireland,Total tetanus,15.0
+Ireland,Poliomyelitis,2.0
+Ireland,Diphtheria,2.0
+Ireland,Congenital rubella syndrome,1.0
+Ireland,Yellow fever,0.0
+Ireland,Neonatal tetanus,0.0
+Ireland,Japanese encephalitis,0.0
+Israel,Pertussis,33442.0
+Israel,Measles,23843.0
+Israel,Mumps,7448.0
+Israel,Rubella,135.0
+Israel,Poliomyelitis,51.0
+Israel,Total tetanus,43.0
+Israel,Invasive meningococcal disease,39.0
+Israel,Typhoid,20.0
+Israel,Neonatal tetanus,8.0
+Israel,Diphtheria,7.0
+Israel,Congenital rubella syndrome,3.0
+Israel,Yellow fever,1.0
+Israel,Japanese encephalitis,0.0
+Italy,Measles,733568.0
+Italy,Pertussis,258209.0
+Italy,Mumps,96710.0
+Italy,Rubella,17438.0
+Italy,Total tetanus,3085.0
+Italy,Typhoid,138.0
+Italy,Diphtheria,127.0
+Italy,Invasive meningococcal disease,123.0
+Italy,Congenital rubella syndrome,30.0
+Italy,Poliomyelitis,8.0
+Italy,Yellow fever,0.0
+Italy,Neonatal tetanus,0.0
+Italy,Japanese encephalitis,0.0
+Jamaica,Measles,19390.0
+Jamaica,Pertussis,651.0
+Jamaica,Total tetanus,245.0
+Jamaica,Diphtheria,97.0
+Jamaica,Poliomyelitis,60.0
+Jamaica,Rubella,52.0
+Jamaica,Mumps,50.0
+Jamaica,Neonatal tetanus,10.0
+Jamaica,Yellow fever,0.0
+Jamaica,Typhoid,0.0
+Jamaica,Japanese encephalitis,0.0
+Jamaica,Invasive meningococcal disease,0.0
+Jamaica,Congenital rubella syndrome,0.0
+Japan,Mumps,1907911.0
+Japan,Measles,205478.0
+Japan,Pertussis,113353.0
+Japan,Rubella,38529.0
+Japan,Total tetanus,2847.0
+Japan,Diphtheria,232.0
+Japan,Typhoid,148.0
+Japan,Japanese encephalitis,70.0
+Japan,Congenital rubella syndrome,59.0
+Japan,Invasive meningococcal disease,15.0
+Japan,Poliomyelitis,7.0
+Japan,Yellow fever,0.0
+Japan,Neonatal tetanus,0.0
+Jordan,Mumps,55615.0
+Jordan,Measles,29072.0
+Jordan,Rubella,22318.0
+Jordan,Pertussis,1049.0
+Jordan,Total tetanus,270.0
+Jordan,Neonatal tetanus,210.0
+Jordan,Poliomyelitis,62.0
+Jordan,Diphtheria,48.0
+Jordan,Typhoid,39.0
+Jordan,Invasive meningococcal disease,4.0
+Jordan,Congenital rubella syndrome,4.0
+Jordan,Yellow fever,0.0
+Jordan,Japanese encephalitis,0.0
+Kazakhstan,Rubella,133864.0
+Kazakhstan,Measles,63647.0
+Kazakhstan,Mumps,25797.0
+Kazakhstan,Pertussis,6373.0
+Kazakhstan,Diphtheria,2553.0
+Kazakhstan,Total tetanus,149.0
+Kazakhstan,Invasive meningococcal disease,125.0
+Kazakhstan,Poliomyelitis,18.0
+Kazakhstan,Congenital rubella syndrome,3.0
+Kazakhstan,Typhoid,1.0
+Kazakhstan,Yellow fever,0.0
+Kazakhstan,Neonatal tetanus,0.0
+Kazakhstan,Japanese encephalitis,0.0
+Kenya,Measles,1669916.0
+Kenya,Pertussis,470421.0
+Kenya,Mumps,461275.0
+Kenya,Typhoid,139891.0
+Kenya,Total tetanus,33111.0
+Kenya,Rubella,8960.0
+Kenya,Poliomyelitis,7034.0
+Kenya,Diphtheria,6437.0
+Kenya,Neonatal tetanus,4850.0
+Kenya,Invasive meningococcal disease,3403.0
+Kenya,Yellow fever,78.0
+Kenya,Japanese encephalitis,0.0
+Kenya,Congenital rubella syndrome,0.0
+Kiribati,Measles,10787.0
+Kiribati,Pertussis,2899.0
+Kiribati,Total tetanus,119.0
+Kiribati,Diphtheria,27.0
+Kiribati,Neonatal tetanus,13.0
+Kiribati,Typhoid,1.0
+Kiribati,Yellow fever,0.0
+Kiribati,Rubella,0.0
+Kiribati,Poliomyelitis,0.0
+Kiribati,Mumps,0.0
+Kiribati,Japanese encephalitis,0.0
+Kiribati,Congenital rubella syndrome,0.0
+Kiribati,Invasive meningococcal disease,
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Mumps,46.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Pertussis,2.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Measles,1.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Yellow fever,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Typhoid,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Total tetanus,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Rubella,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Neonatal tetanus,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Invasive meningococcal disease,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Diphtheria,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Congenital rubella syndrome,0.0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),Japanese encephalitis,
+Kuwait,Measles,11437.0
+Kuwait,Pertussis,1789.0
+Kuwait,Mumps,784.0
+Kuwait,Rubella,475.0
+Kuwait,Typhoid,101.0
+Kuwait,Invasive meningococcal disease,59.0
+Kuwait,Total tetanus,52.0
+Kuwait,Poliomyelitis,51.0
+Kuwait,Diphtheria,19.0
+Kuwait,Neonatal tetanus,18.0
+Kuwait,Congenital rubella syndrome,4.0
+Kuwait,Yellow fever,0.0
+Kuwait,Japanese encephalitis,0.0
+Kyrgyzstan,Measles,39127.0
+Kyrgyzstan,Mumps,18279.0
+Kyrgyzstan,Pertussis,6319.0
+Kyrgyzstan,Rubella,3389.0
+Kyrgyzstan,Diphtheria,1982.0
+Kyrgyzstan,Invasive meningococcal disease,52.0
+Kyrgyzstan,Total tetanus,14.0
+Kyrgyzstan,Typhoid,9.0
+Kyrgyzstan,Poliomyelitis,9.0
+Kyrgyzstan,Congenital rubella syndrome,2.0
+Kyrgyzstan,Yellow fever,0.0
+Kyrgyzstan,Neonatal tetanus,0.0
+Kyrgyzstan,Japanese encephalitis,0.0
+Lao People's Democratic Republic,Measles,42196.0
+Lao People's Democratic Republic,Pertussis,19915.0
+Lao People's Democratic Republic,Poliomyelitis,2756.0
+Lao People's Democratic Republic,Diphtheria,2684.0
+Lao People's Democratic Republic,Total tetanus,2677.0
+Lao People's Democratic Republic,Typhoid,1104.0
+Lao People's Democratic Republic,Rubella,685.0
+Lao People's Democratic Republic,Neonatal tetanus,416.0
+Lao People's Democratic Republic,Japanese encephalitis,407.0
+Lao People's Democratic Republic,Invasive meningococcal disease,144.0
+Lao People's Democratic Republic,Mumps,81.0
+Lao People's Democratic Republic,Yellow fever,0.0
+Lao People's Democratic Republic,Congenital rubella syndrome,0.0
+Latvia,Mumps,9312.0
+Latvia,Pertussis,4343.0
+Latvia,Rubella,3538.0
+Latvia,Diphtheria,1569.0
+Latvia,Measles,433.0
+Latvia,Total tetanus,27.0
+Latvia,Invasive meningococcal disease,24.0
+Latvia,Typhoid,7.0
+Latvia,Yellow fever,0.0
+Latvia,Poliomyelitis,0.0
+Latvia,Neonatal tetanus,0.0
+Latvia,Japanese encephalitis,0.0
+Latvia,Congenital rubella syndrome,0.0
+Lebanon,Measles,9087.0
+Lebanon,Mumps,3668.0
+Lebanon,Pertussis,1347.0
+Lebanon,Typhoid,1087.0
+Lebanon,Rubella,384.0
+Lebanon,Total tetanus,87.0
+Lebanon,Poliomyelitis,59.0
+Lebanon,Neonatal tetanus,17.0
+Lebanon,Invasive meningococcal disease,7.0
+Lebanon,Diphtheria,6.0
+Lebanon,Yellow fever,0.0
+Lebanon,Japanese encephalitis,0.0
+Lebanon,Congenital rubella syndrome,0.0
+Lesotho,Measles,64504.0
+Lesotho,Mumps,7032.0
+Lesotho,Pertussis,4827.0
+Lesotho,Rubella,2178.0
+Lesotho,Diphtheria,452.0
+Lesotho,Poliomyelitis,178.0
+Lesotho,Typhoid,163.0
+Lesotho,Total tetanus,79.0
+Lesotho,Neonatal tetanus,16.0
+Lesotho,Invasive meningococcal disease,11.0
+Lesotho,Yellow fever,0.0
+Lesotho,Japanese encephalitis,0.0
+Lesotho,Congenital rubella syndrome,0.0
+Liberia,Measles,95229.0
+Liberia,Pertussis,8250.0
+Liberia,Total tetanus,1936.0
+Liberia,Neonatal tetanus,1476.0
+Liberia,Yellow fever,970.0
+Liberia,Rubella,633.0
+Liberia,Poliomyelitis,209.0
+Liberia,Typhoid,7.0
+Liberia,Mumps,0.0
+Liberia,Japanese encephalitis,0.0
+Liberia,Invasive meningococcal disease,0.0
+Liberia,Diphtheria,0.0
+Liberia,Congenital rubella syndrome,0.0
+Libya,Measles,32144.0
+Libya,Pertussis,4292.0
+Libya,Mumps,3203.0
+Libya,Invasive meningococcal disease,786.0
+Libya,Rubella,645.0
+Libya,Poliomyelitis,354.0
+Libya,Total tetanus,233.0
+Libya,Neonatal tetanus,67.0
+Libya,Diphtheria,14.0
+Libya,Yellow fever,0.0
+Libya,Typhoid,0.0
+Libya,Japanese encephalitis,0.0
+Libya,Congenital rubella syndrome,0.0
+Lithuania,Mumps,6592.0
+Lithuania,Pertussis,2982.0
+Lithuania,Rubella,2551.0
+Lithuania,Measles,2304.0
+Lithuania,Diphtheria,130.0
+Lithuania,Total tetanus,59.0
+Lithuania,Invasive meningococcal disease,57.0
+Lithuania,Typhoid,5.0
+Lithuania,Yellow fever,0.0
+Lithuania,Poliomyelitis,0.0
+Lithuania,Neonatal tetanus,0.0
+Lithuania,Japanese encephalitis,0.0
+Lithuania,Congenital rubella syndrome,0.0
+Luxembourg,Measles,995.0
+Luxembourg,Pertussis,294.0
+Luxembourg,Mumps,85.0
+Luxembourg,Invasive meningococcal disease,13.0
+Luxembourg,Total tetanus,9.0
+Luxembourg,Rubella,7.0
+Luxembourg,Diphtheria,4.0
+Luxembourg,Yellow fever,0.0
+Luxembourg,Typhoid,0.0
+Luxembourg,Poliomyelitis,0.0
+Luxembourg,Neonatal tetanus,0.0
+Luxembourg,Japanese encephalitis,0.0
+Luxembourg,Congenital rubella syndrome,0.0
+Madagascar,Measles,1176397.0
+Madagascar,Pertussis,193998.0
+Madagascar,Mumps,40850.0
+Madagascar,Diphtheria,16693.0
+Madagascar,Total tetanus,9901.0
+Madagascar,Rubella,3119.0
+Madagascar,Neonatal tetanus,1337.0
+Madagascar,Poliomyelitis,612.0
+Madagascar,Yellow fever,0.0
+Madagascar,Japanese encephalitis,0.0
+Madagascar,Congenital rubella syndrome,0.0
+Madagascar,Typhoid,
+Madagascar,Invasive meningococcal disease,
+Malawi,Measles,1296622.0
+Malawi,Pertussis,195849.0
+Malawi,Total tetanus,3815.0
+Malawi,Neonatal tetanus,3011.0
+Malawi,Rubella,1501.0
+Malawi,Poliomyelitis,437.0
+Malawi,Diphtheria,188.0
+Malawi,Yellow fever,0.0
+Malawi,Typhoid,0.0
+Malawi,Mumps,0.0
+Malawi,Japanese encephalitis,0.0
+Malawi,Congenital rubella syndrome,0.0
+Malawi,Invasive meningococcal disease,
+Malaysia,Measles,99059.0
+Malaysia,Pertussis,7263.0
+Malaysia,Rubella,3426.0
+Malaysia,Mumps,2405.0
+Malaysia,Total tetanus,1482.0
+Malaysia,Neonatal tetanus,844.0
+Malaysia,Typhoid,658.0
+Malaysia,Diphtheria,568.0
+Malaysia,Japanese encephalitis,413.0
+Malaysia,Poliomyelitis,31.0
+Malaysia,Invasive meningococcal disease,13.0
+Malaysia,Congenital rubella syndrome,5.0
+Malaysia,Yellow fever,0.0
+Maldives,Mumps,11487.0
+Maldives,Measles,9893.0
+Maldives,Rubella,96.0
+Maldives,Neonatal tetanus,65.0
+Maldives,Typhoid,44.0
+Maldives,Total tetanus,18.0
+Maldives,Pertussis,10.0
+Maldives,Invasive meningococcal disease,2.0
+Maldives,Poliomyelitis,1.0
+Maldives,Yellow fever,0.0
+Maldives,Japanese encephalitis,0.0
+Maldives,Diphtheria,0.0
+Maldives,Congenital rubella syndrome,0.0
+Mali,Typhoid,278516.0
+Mali,Measles,180185.0
+Mali,Pertussis,29994.0
+Mali,Total tetanus,6694.0
+Mali,Poliomyelitis,2304.0
+Mali,Neonatal tetanus,1744.0
+Mali,Rubella,925.0
+Mali,Yellow fever,604.0
+Mali,Diphtheria,584.0
+Mali,Mumps,0.0
+Mali,Japanese encephalitis,0.0
+Mali,Congenital rubella syndrome,0.0
+Mali,Invasive meningococcal disease,
+Malta,Measles,4636.0
+Malta,Pertussis,1226.0
+Malta,Mumps,571.0
+Malta,Total tetanus,38.0
+Malta,Rubella,33.0
+Malta,Typhoid,8.0
+Malta,Invasive meningococcal disease,2.0
+Malta,Yellow fever,0.0
+Malta,Poliomyelitis,0.0
+Malta,Neonatal tetanus,0.0
+Malta,Japanese encephalitis,0.0
+Malta,Diphtheria,0.0
+Malta,Congenital rubella syndrome,0.0
+Marshall Islands,Measles,1197.0
+Marshall Islands,Pertussis,464.0
+Marshall Islands,Mumps,23.0
+Marshall Islands,Typhoid,4.0
+Marshall Islands,Total tetanus,1.0
+Marshall Islands,Poliomyelitis,1.0
+Marshall Islands,Diphtheria,1.0
+Marshall Islands,Yellow fever,0.0
+Marshall Islands,Rubella,0.0
+Marshall Islands,Neonatal tetanus,0.0
+Marshall Islands,Japanese encephalitis,0.0
+Marshall Islands,Invasive meningococcal disease,0.0
+Marshall Islands,Congenital rubella syndrome,0.0
+Mauritania,Measles,122725.0
+Mauritania,Pertussis,47567.0
+Mauritania,Total tetanus,824.0
+Mauritania,Poliomyelitis,817.0
+Mauritania,Diphtheria,656.0
+Mauritania,Neonatal tetanus,607.0
+Mauritania,Rubella,131.0
+Mauritania,Yellow fever,31.0
+Mauritania,Typhoid,0.0
+Mauritania,Mumps,0.0
+Mauritania,Japanese encephalitis,0.0
+Mauritania,Invasive meningococcal disease,0.0
+Mauritania,Congenital rubella syndrome,0.0
+Mauritius,Measles,1133.0
+Mauritius,Rubella,92.0
+Mauritius,Mumps,50.0
+Mauritius,Total tetanus,48.0
+Mauritius,Pertussis,19.0
+Mauritius,Neonatal tetanus,16.0
+Mauritius,Congenital rubella syndrome,9.0
+Mauritius,Diphtheria,6.0
+Mauritius,Invasive meningococcal disease,1.0
+Mauritius,Yellow fever,0.0
+Mauritius,Typhoid,0.0
+Mauritius,Poliomyelitis,0.0
+Mauritius,Japanese encephalitis,0.0
+Mexico,Measles,191793.0
+Mexico,Mumps,137873.0
+Mexico,Rubella,128345.0
+Mexico,Pertussis,35576.0
+Mexico,Total tetanus,6760.0
+Mexico,Poliomyelitis,1683.0
+Mexico,Neonatal tetanus,1202.0
+Mexico,Diphtheria,80.0
+Mexico,Invasive meningococcal disease,53.0
+Mexico,Congenital rubella syndrome,23.0
+Mexico,Yellow fever,0.0
+Mexico,Typhoid,
+Mexico,Japanese encephalitis,
+Micronesia (Federated States of),Measles,1115.0
+Micronesia (Federated States of),Mumps,711.0
+Micronesia (Federated States of),Pertussis,335.0
+Micronesia (Federated States of),Typhoid,2.0
+Micronesia (Federated States of),Total tetanus,2.0
+Micronesia (Federated States of),Neonatal tetanus,1.0
+Micronesia (Federated States of),Yellow fever,0.0
+Micronesia (Federated States of),Rubella,0.0
+Micronesia (Federated States of),Poliomyelitis,0.0
+Micronesia (Federated States of),Japanese encephalitis,0.0
+Micronesia (Federated States of),Invasive meningococcal disease,0.0
+Micronesia (Federated States of),Diphtheria,0.0
+Micronesia (Federated States of),Congenital rubella syndrome,0.0
+Monaco,Measles,179.0
+Monaco,Pertussis,7.0
+Monaco,Rubella,5.0
+Monaco,Mumps,5.0
+Monaco,Total tetanus,1.0
+Monaco,Diphtheria,1.0
+Monaco,Yellow fever,0.0
+Monaco,Typhoid,0.0
+Monaco,Poliomyelitis,0.0
+Monaco,Neonatal tetanus,0.0
+Monaco,Japanese encephalitis,0.0
+Monaco,Invasive meningococcal disease,0.0
+Monaco,Congenital rubella syndrome,0.0
+Mongolia,Measles,110744.0
+Mongolia,Mumps,34508.0
+Mongolia,Rubella,11764.0
+Mongolia,Diphtheria,375.0
+Mongolia,Poliomyelitis,111.0
+Mongolia,Pertussis,104.0
+Mongolia,Total tetanus,44.0
+Mongolia,Invasive meningococcal disease,18.0
+Mongolia,Neonatal tetanus,4.0
+Mongolia,Congenital rubella syndrome,3.0
+Mongolia,Yellow fever,0.0
+Mongolia,Typhoid,0.0
+Mongolia,Japanese encephalitis,0.0
+Montenegro,Pertussis,529.0
+Montenegro,Mumps,308.0
+Montenegro,Measles,210.0
+Montenegro,Rubella,3.0
+Montenegro,Total tetanus,1.0
+Montenegro,Invasive meningococcal disease,1.0
+Montenegro,Yellow fever,0.0
+Montenegro,Typhoid,0.0
+Montenegro,Poliomyelitis,0.0
+Montenegro,Neonatal tetanus,0.0
+Montenegro,Japanese encephalitis,0.0
+Montenegro,Diphtheria,0.0
+Montenegro,Congenital rubella syndrome,0.0
+Montserrat,Measles,10.0
+Montserrat,Yellow fever,0.0
+Montserrat,Typhoid,0.0
+Montserrat,Total tetanus,0.0
+Montserrat,Rubella,0.0
+Montserrat,Poliomyelitis,0.0
+Montserrat,Pertussis,0.0
+Montserrat,Neonatal tetanus,0.0
+Montserrat,Mumps,0.0
+Montserrat,Invasive meningococcal disease,0.0
+Montserrat,Diphtheria,0.0
+Montserrat,Congenital rubella syndrome,0.0
+Montserrat,Japanese encephalitis,
+Morocco,Measles,480576.0
+Morocco,Pertussis,53429.0
+Morocco,Total tetanus,2165.0
+Morocco,Neonatal tetanus,1013.0
+Morocco,Poliomyelitis,308.0
+Morocco,Diphtheria,223.0
+Morocco,Rubella,89.0
+Morocco,Typhoid,79.0
+Morocco,Yellow fever,0.0
+Morocco,Japanese encephalitis,0.0
+Morocco,Congenital rubella syndrome,0.0
+Morocco,Mumps,
+Mozambique,Measles,331647.0
+Mozambique,Pertussis,7667.0
+Mozambique,Total tetanus,4583.0
+Mozambique,Rubella,3065.0
+Mozambique,Neonatal tetanus,3039.0
+Mozambique,Mumps,651.0
+Mozambique,Poliomyelitis,311.0
+Mozambique,Invasive meningococcal disease,141.0
+Mozambique,Diphtheria,54.0
+Mozambique,Yellow fever,0.0
+Mozambique,Japanese encephalitis,0.0
+Mozambique,Congenital rubella syndrome,0.0
+Mozambique,Typhoid,
+Myanmar,Measles,190963.0
+Myanmar,Pertussis,181979.0
+Myanmar,Total tetanus,25996.0
+Myanmar,Diphtheria,6218.0
+Myanmar,Neonatal tetanus,2422.0
+Myanmar,Poliomyelitis,2064.0
+Myanmar,Japanese encephalitis,1437.0
+Myanmar,Rubella,357.0
+Myanmar,Congenital rubella syndrome,8.0
+Myanmar,Yellow fever,0.0
+Myanmar,Mumps,0.0
+Myanmar,Typhoid,
+Myanmar,Invasive meningococcal disease,
+Namibia,Measles,54177.0
+Namibia,Mumps,19236.0
+Namibia,Pertussis,5512.0
+Namibia,Rubella,4946.0
+Namibia,Total tetanus,429.0
+Namibia,Neonatal tetanus,317.0
+Namibia,Invasive meningococcal disease,226.0
+Namibia,Poliomyelitis,107.0
+Namibia,Typhoid,13.0
+Namibia,Diphtheria,10.0
+Namibia,Yellow fever,3.0
+Namibia,Congenital rubella syndrome,1.0
+Namibia,Japanese encephalitis,0.0
+Nauru,Measles,382.0
+Nauru,Pertussis,170.0
+Nauru,Total tetanus,5.0
+Nauru,Neonatal tetanus,4.0
+Nauru,Poliomyelitis,1.0
+Nauru,Mumps,1.0
+Nauru,Congenital rubella syndrome,1.0
+Nauru,Yellow fever,0.0
+Nauru,Typhoid,0.0
+Nauru,Rubella,0.0
+Nauru,Japanese encephalitis,0.0
+Nauru,Diphtheria,0.0
+Nauru,Invasive meningococcal disease,
+Nepal,Mumps,393159.0
+Nepal,Typhoid,319881.0
+Nepal,Pertussis,136213.0
+Nepal,Measles,117457.0
+Nepal,Total tetanus,13674.0
+Nepal,Diphtheria,11940.0
+Nepal,Rubella,7732.0
+Nepal,Japanese encephalitis,4473.0
+Nepal,Neonatal tetanus,3306.0
+Nepal,Poliomyelitis,542.0
+Nepal,Congenital rubella syndrome,99.0
+Nepal,Yellow fever,0.0
+Nepal,Invasive meningococcal disease,
+Netherlands (Kingdom of the),Pertussis,142287.0
+Netherlands (Kingdom of the),Measles,11028.0
+Netherlands (Kingdom of the),Mumps,2459.0
+Netherlands (Kingdom of the),Rubella,515.0
+Netherlands (Kingdom of the),Invasive meningococcal disease,350.0
+Netherlands (Kingdom of the),Typhoid,145.0
+Netherlands (Kingdom of the),Total tetanus,83.0
+Netherlands (Kingdom of the),Poliomyelitis,74.0
+Netherlands (Kingdom of the),Diphtheria,48.0
+Netherlands (Kingdom of the),Congenital rubella syndrome,4.0
+Netherlands (Kingdom of the),Yellow fever,1.0
+Netherlands (Kingdom of the),Neonatal tetanus,1.0
+Netherlands (Kingdom of the),Japanese encephalitis,
+New Caledonia,Measles,4728.0
+New Caledonia,Pertussis,283.0
+New Caledonia,Total tetanus,10.0
+New Caledonia,Invasive meningococcal disease,8.0
+New Caledonia,Poliomyelitis,5.0
+New Caledonia,Typhoid,3.0
+New Caledonia,Diphtheria,3.0
+New Caledonia,Neonatal tetanus,1.0
+New Caledonia,Yellow fever,0.0
+New Caledonia,Rubella,0.0
+New Caledonia,Japanese encephalitis,0.0
+New Caledonia,Congenital rubella syndrome,0.0
+New Caledonia,Mumps,
+New Zealand,Pertussis,41573.0
+New Zealand,Measles,15515.0
+New Zealand,Mumps,2883.0
+New Zealand,Typhoid,287.0
+New Zealand,Rubella,247.0
+New Zealand,Invasive meningococcal disease,148.0
+New Zealand,Total tetanus,73.0
+New Zealand,Diphtheria,42.0
+New Zealand,Yellow fever,0.0
+New Zealand,Poliomyelitis,0.0
+New Zealand,Neonatal tetanus,0.0
+New Zealand,Japanese encephalitis,0.0
+New Zealand,Congenital rubella syndrome,0.0
+Nicaragua,Measles,11790.0
+Nicaragua,Pertussis,7064.0
+Nicaragua,Mumps,2903.0
+Nicaragua,Total tetanus,1718.0
+Nicaragua,Rubella,1651.0
+Nicaragua,Neonatal tetanus,663.0
+Nicaragua,Poliomyelitis,67.0
+Nicaragua,Diphtheria,15.0
+Nicaragua,Congenital rubella syndrome,4.0
+Nicaragua,Yellow fever,0.0
+Nicaragua,Typhoid,0.0
+Nicaragua,Invasive meningococcal disease,0.0
+Nicaragua,Japanese encephalitis,
+Niger,Measles,1057293.0
+Niger,Pertussis,102557.0
+Niger,Total tetanus,6256.0
+Niger,Diphtheria,4985.0
+Niger,Invasive meningococcal disease,2810.0
+Niger,Neonatal tetanus,2688.0
+Niger,Poliomyelitis,2072.0
+Niger,Typhoid,1970.0
+Niger,Rubella,1010.0
+Niger,Yellow fever,28.0
+Niger,Mumps,0.0
+Niger,Japanese encephalitis,0.0
+Niger,Congenital rubella syndrome,0.0
+Nigeria,Measles,3058382.0
+Nigeria,Pertussis,958887.0
+Nigeria,Total tetanus,60461.0
+Nigeria,Diphtheria,52148.0
+Nigeria,Rubella,26016.0
+Nigeria,Yellow fever,22375.0
+Nigeria,Poliomyelitis,21540.0
+Nigeria,Neonatal tetanus,21005.0
+Nigeria,Mumps,0.0
+Nigeria,Japanese encephalitis,0.0
+Nigeria,Congenital rubella syndrome,0.0
+Nigeria,Typhoid,
+Nigeria,Invasive meningococcal disease,
+Niue,Measles,177.0
+Niue,Rubella,40.0
+Niue,Mumps,1.0
+Niue,Yellow fever,0.0
+Niue,Typhoid,0.0
+Niue,Total tetanus,0.0
+Niue,Poliomyelitis,0.0
+Niue,Pertussis,0.0
+Niue,Neonatal tetanus,0.0
+Niue,Japanese encephalitis,0.0
+Niue,Invasive meningococcal disease,0.0
+Niue,Diphtheria,0.0
+Niue,Congenital rubella syndrome,0.0
+North Macedonia,Mumps,19049.0
+North Macedonia,Measles,7393.0
+North Macedonia,Rubella,472.0
+North Macedonia,Pertussis,451.0
+North Macedonia,Total tetanus,21.0
+North Macedonia,Invasive meningococcal disease,5.0
+North Macedonia,Neonatal tetanus,2.0
+North Macedonia,Yellow fever,0.0
+North Macedonia,Typhoid,0.0
+North Macedonia,Poliomyelitis,0.0
+North Macedonia,Japanese encephalitis,0.0
+North Macedonia,Diphtheria,0.0
+North Macedonia,Congenital rubella syndrome,0.0
+Northern Mariana Islands,Measles,189.0
+Northern Mariana Islands,Pertussis,4.0
+Northern Mariana Islands,Total tetanus,3.0
+Northern Mariana Islands,Yellow fever,0.0
+Northern Mariana Islands,Typhoid,0.0
+Northern Mariana Islands,Rubella,0.0
+Northern Mariana Islands,Poliomyelitis,0.0
+Northern Mariana Islands,Neonatal tetanus,0.0
+Northern Mariana Islands,Mumps,0.0
+Northern Mariana Islands,Japanese encephalitis,0.0
+Northern Mariana Islands,Invasive meningococcal disease,0.0
+Northern Mariana Islands,Diphtheria,0.0
+Northern Mariana Islands,Congenital rubella syndrome,0.0
+Norway,Pertussis,88254.0
+Norway,Measles,28467.0
+Norway,Mumps,528.0
+Norway,Typhoid,335.0
+Norway,Total tetanus,45.0
+Norway,Invasive meningococcal disease,36.0
+Norway,Rubella,23.0
+Norway,Diphtheria,21.0
+Norway,Poliomyelitis,3.0
+Norway,Japanese encephalitis,1.0
+Norway,Yellow fever,0.0
+Norway,Neonatal tetanus,0.0
+Norway,Congenital rubella syndrome,0.0
+Oman,Measles,114106.0
+Oman,Mumps,38562.0
+Oman,Pertussis,15744.0
+Oman,Total tetanus,489.0
+Oman,Poliomyelitis,406.0
+Oman,Rubella,175.0
+Oman,Typhoid,89.0
+Oman,Diphtheria,68.0
+Oman,Neonatal tetanus,48.0
+Oman,Invasive meningococcal disease,5.0
+Oman,Congenital rubella syndrome,2.0
+Oman,Yellow fever,0.0
+Oman,Japanese encephalitis,0.0
+Pakistan,Pertussis,493326.0
+Pakistan,Measles,475039.0
+Pakistan,Total tetanus,76263.0
+Pakistan,Diphtheria,51731.0
+Pakistan,Neonatal tetanus,41677.0
+Pakistan,Poliomyelitis,28273.0
+Pakistan,Typhoid,25841.0
+Pakistan,Rubella,6264.0
+Pakistan,Congenital rubella syndrome,722.0
+Pakistan,Yellow fever,
+Pakistan,Mumps,
+Pakistan,Japanese encephalitis,
+Pakistan,Invasive meningococcal disease,
+Palau,Measles,95.0
+Palau,Yellow fever,0.0
+Palau,Typhoid,0.0
+Palau,Total tetanus,0.0
+Palau,Rubella,0.0
+Palau,Poliomyelitis,0.0
+Palau,Pertussis,0.0
+Palau,Neonatal tetanus,0.0
+Palau,Mumps,0.0
+Palau,Japanese encephalitis,0.0
+Palau,Invasive meningococcal disease,0.0
+Palau,Diphtheria,0.0
+Palau,Congenital rubella syndrome,0.0
+Panama,Measles,27735.0
+Panama,Rubella,5211.0
+Panama,Mumps,3698.0
+Panama,Pertussis,3556.0
+Panama,Total tetanus,298.0
+Panama,Neonatal tetanus,157.0
+Panama,Congenital rubella syndrome,4.0
+Panama,Invasive meningococcal disease,2.0
+Panama,Typhoid,1.0
+Panama,Diphtheria,1.0
+Panama,Yellow fever,0.0
+Panama,Poliomyelitis,0.0
+Panama,Japanese encephalitis,0.0
+Papua New Guinea,Measles,193362.0
+Papua New Guinea,Pertussis,87045.0
+Papua New Guinea,Total tetanus,2314.0
+Papua New Guinea,Diphtheria,2014.0
+Papua New Guinea,Neonatal tetanus,1584.0
+Papua New Guinea,Rubella,193.0
+Papua New Guinea,Poliomyelitis,193.0
+Papua New Guinea,Japanese encephalitis,8.0
+Papua New Guinea,Congenital rubella syndrome,2.0
+Papua New Guinea,Yellow fever,0.0
+Papua New Guinea,Typhoid,0.0
+Papua New Guinea,Mumps,0.0
+Papua New Guinea,Invasive meningococcal disease,0.0
+Paraguay,Measles,13375.0
+Paraguay,Mumps,11616.0
+Paraguay,Pertussis,6367.0
+Paraguay,Total tetanus,1935.0
+Paraguay,Neonatal tetanus,1045.0
+Paraguay,Rubella,230.0
+Paraguay,Diphtheria,219.0
+Paraguay,Poliomyelitis,153.0
+Paraguay,Yellow fever,28.0
+Paraguay,Invasive meningococcal disease,19.0
+Paraguay,Congenital rubella syndrome,1.0
+Paraguay,Typhoid,0.0
+Paraguay,Japanese encephalitis,0.0
+Peru,Measles,118726.0
+Peru,Pertussis,81366.0
+Peru,Rubella,10683.0
+Peru,Total tetanus,5358.0
+Peru,Mumps,4825.0
+Peru,Neonatal tetanus,2676.0
+Peru,Yellow fever,2584.0
+Peru,Diphtheria,1348.0
+Peru,Poliomyelitis,1217.0
+Peru,Congenital rubella syndrome,27.0
+Peru,Invasive meningococcal disease,6.0
+Peru,Typhoid,0.0
+Peru,Japanese encephalitis,
+Philippines,Measles,887028.0
+Philippines,Pertussis,169530.0
+Philippines,Total tetanus,67914.0
+Philippines,Typhoid,27362.0
+Philippines,Diphtheria,20942.0
+Philippines,Neonatal tetanus,16578.0
+Philippines,Rubella,5962.0
+Philippines,Poliomyelitis,3963.0
+Philippines,Japanese encephalitis,1834.0
+Philippines,Invasive meningococcal disease,198.0
+Philippines,Congenital rubella syndrome,172.0
+Philippines,Mumps,5.0
+Philippines,Yellow fever,0.0
+Poland,Mumps,497296.0
+Poland,Rubella,328467.0
+Poland,Measles,257178.0
+Poland,Pertussis,52495.0
+Poland,Total tetanus,1584.0
+Poland,Invasive meningococcal disease,477.0
+Poland,Diphtheria,30.0
+Poland,Typhoid,17.0
+Poland,Poliomyelitis,16.0
+Poland,Congenital rubella syndrome,13.0
+Poland,Neonatal tetanus,1.0
+Poland,Yellow fever,0.0
+Poland,Japanese encephalitis,0.0
+Portugal,Measles,20827.0
+Portugal,Mumps,12525.0
+Portugal,Pertussis,3459.0
+Portugal,Total tetanus,991.0
+Portugal,Typhoid,604.0
+Portugal,Rubella,439.0
+Portugal,Diphtheria,235.0
+Portugal,Invasive meningococcal disease,104.0
+Portugal,Neonatal tetanus,26.0
+Portugal,Congenital rubella syndrome,8.0
+Portugal,Poliomyelitis,2.0
+Portugal,Yellow fever,0.0
+Portugal,Japanese encephalitis,0.0
+Qatar,Measles,12841.0
+Qatar,Mumps,2783.0
+Qatar,Pertussis,1798.0
+Qatar,Rubella,382.0
+Qatar,Typhoid,279.0
+Qatar,Total tetanus,31.0
+Qatar,Diphtheria,18.0
+Qatar,Poliomyelitis,11.0
+Qatar,Invasive meningococcal disease,4.0
+Qatar,Neonatal tetanus,1.0
+Qatar,Congenital rubella syndrome,1.0
+Qatar,Yellow fever,0.0
+Qatar,Japanese encephalitis,0.0
+Region of the Americas,Measles,2552047.0
+Region of the Americas,Pertussis,1498045.0
+Region of the Americas,Mumps,805143.0
+Region of the Americas,Rubella,423372.0
+Region of the Americas,Total tetanus,90088.0
+Region of the Americas,Diphtheria,39323.0
+Region of the Americas,Neonatal tetanus,23687.0
+Region of the Americas,Typhoid,10419.0
+Region of the Americas,Poliomyelitis,9776.0
+Region of the Americas,Yellow fever,7258.0
+Region of the Americas,Invasive meningococcal disease,3733.0
+Region of the Americas,Congenital rubella syndrome,595.0
+Region of the Americas,Japanese encephalitis,0.0
+Republic of Korea,Mumps,133293.0
+Republic of Korea,Measles,94541.0
+Republic of Korea,Pertussis,11608.0
+Republic of Korea,Rubella,609.0
+Republic of Korea,Total tetanus,483.0
+Republic of Korea,Japanese encephalitis,240.0
+Republic of Korea,Typhoid,178.0
+Republic of Korea,Diphtheria,152.0
+Republic of Korea,Poliomyelitis,23.0
+Republic of Korea,Invasive meningococcal disease,18.0
+Republic of Korea,Congenital rubella syndrome,3.0
+Republic of Korea,Yellow fever,0.0
+Republic of Korea,Neonatal tetanus,0.0
+Republic of Moldova,Mumps,43417.0
+Republic of Moldova,Rubella,21828.0
+Republic of Moldova,Measles,18489.0
+Republic of Moldova,Pertussis,6483.0
+Republic of Moldova,Diphtheria,1053.0
+Republic of Moldova,Invasive meningococcal disease,48.0
+Republic of Moldova,Total tetanus,21.0
+Republic of Moldova,Poliomyelitis,6.0
+Republic of Moldova,Typhoid,1.0
+Republic of Moldova,Yellow fever,0.0
+Republic of Moldova,Neonatal tetanus,0.0
+Republic of Moldova,Japanese encephalitis,0.0
+Republic of Moldova,Congenital rubella syndrome,0.0
+Romania,Mumps,356240.0
+Romania,Measles,289033.0
+Romania,Rubella,236475.0
+Romania,Pertussis,56798.0
+Romania,Total tetanus,795.0
+Romania,Poliomyelitis,400.0
+Romania,Congenital rubella syndrome,225.0
+Romania,Invasive meningococcal disease,79.0
+Romania,Diphtheria,57.0
+Romania,Neonatal tetanus,14.0
+Romania,Typhoid,8.0
+Romania,Yellow fever,1.0
+Romania,Japanese encephalitis,0.0
+Russian Federation,Rubella,2552752.0
+Russian Federation,Pertussis,513564.0
+Russian Federation,Measles,238981.0
+Russian Federation,Mumps,179985.0
+Russian Federation,Diphtheria,121855.0
+Russian Federation,Invasive meningococcal disease,1956.0
+Russian Federation,Total tetanus,1022.0
+Russian Federation,Poliomyelitis,209.0
+Russian Federation,Congenital rubella syndrome,52.0
+Russian Federation,Neonatal tetanus,40.0
+Russian Federation,Typhoid,22.0
+Russian Federation,Yellow fever,0.0
+Russian Federation,Japanese encephalitis,0.0
+Rwanda,Measles,411290.0
+Rwanda,Pertussis,57621.0
+Rwanda,Mumps,10203.0
+Rwanda,Typhoid,1832.0
+Rwanda,Total tetanus,1140.0
+Rwanda,Rubella,636.0
+Rwanda,Neonatal tetanus,385.0
+Rwanda,Poliomyelitis,225.0
+Rwanda,Diphtheria,53.0
+Rwanda,Congenital rubella syndrome,5.0
+Rwanda,Yellow fever,0.0
+Rwanda,Japanese encephalitis,0.0
+Rwanda,Invasive meningococcal disease,0.0
+Saint Kitts and Nevis,Measles,1228.0
+Saint Kitts and Nevis,Total tetanus,6.0
+Saint Kitts and Nevis,Yellow fever,0.0
+Saint Kitts and Nevis,Typhoid,0.0
+Saint Kitts and Nevis,Rubella,0.0
+Saint Kitts and Nevis,Poliomyelitis,0.0
+Saint Kitts and Nevis,Pertussis,0.0
+Saint Kitts and Nevis,Neonatal tetanus,0.0
+Saint Kitts and Nevis,Mumps,0.0
+Saint Kitts and Nevis,Japanese encephalitis,0.0
+Saint Kitts and Nevis,Invasive meningococcal disease,0.0
+Saint Kitts and Nevis,Diphtheria,0.0
+Saint Kitts and Nevis,Congenital rubella syndrome,0.0
+Saint Lucia,Measles,2385.0
+Saint Lucia,Pertussis,511.0
+Saint Lucia,Mumps,78.0
+Saint Lucia,Total tetanus,25.0
+Saint Lucia,Yellow fever,0.0
+Saint Lucia,Typhoid,0.0
+Saint Lucia,Rubella,0.0
+Saint Lucia,Poliomyelitis,0.0
+Saint Lucia,Neonatal tetanus,0.0
+Saint Lucia,Japanese encephalitis,0.0
+Saint Lucia,Invasive meningococcal disease,0.0
+Saint Lucia,Diphtheria,0.0
+Saint Lucia,Congenital rubella syndrome,0.0
+Saint Vincent and the Grenadines,Measles,1131.0
+Saint Vincent and the Grenadines,Total tetanus,7.0
+Saint Vincent and the Grenadines,Pertussis,2.0
+Saint Vincent and the Grenadines,Neonatal tetanus,1.0
+Saint Vincent and the Grenadines,Yellow fever,0.0
+Saint Vincent and the Grenadines,Typhoid,0.0
+Saint Vincent and the Grenadines,Rubella,0.0
+Saint Vincent and the Grenadines,Poliomyelitis,0.0
+Saint Vincent and the Grenadines,Mumps,0.0
+Saint Vincent and the Grenadines,Japanese encephalitis,0.0
+Saint Vincent and the Grenadines,Invasive meningococcal disease,0.0
+Saint Vincent and the Grenadines,Diphtheria,0.0
+Saint Vincent and the Grenadines,Congenital rubella syndrome,0.0
+Samoa,Measles,7396.0
+Samoa,Rubella,1914.0
+Samoa,Pertussis,693.0
+Samoa,Invasive meningococcal disease,635.0
+Samoa,Typhoid,410.0
+Samoa,Mumps,83.0
+Samoa,Congenital rubella syndrome,10.0
+Samoa,Diphtheria,6.0
+Samoa,Total tetanus,2.0
+Samoa,Yellow fever,0.0
+Samoa,Poliomyelitis,0.0
+Samoa,Neonatal tetanus,0.0
+Samoa,Japanese encephalitis,0.0
+San Marino,Rubella,66.0
+San Marino,Measles,54.0
+San Marino,Pertussis,32.0
+San Marino,Mumps,19.0
+San Marino,Typhoid,8.0
+San Marino,Total tetanus,2.0
+San Marino,Yellow fever,0.0
+San Marino,Poliomyelitis,0.0
+San Marino,Neonatal tetanus,0.0
+San Marino,Japanese encephalitis,0.0
+San Marino,Invasive meningococcal disease,0.0
+San Marino,Diphtheria,0.0
+San Marino,Congenital rubella syndrome,0.0
+Sao Tome and Principe,Measles,2200.0
+Sao Tome and Principe,Pertussis,846.0
+Sao Tome and Principe,Typhoid,801.0
+Sao Tome and Principe,Total tetanus,185.0
+Sao Tome and Principe,Mumps,59.0
+Sao Tome and Principe,Neonatal tetanus,36.0
+Sao Tome and Principe,Poliomyelitis,30.0
+Sao Tome and Principe,Rubella,3.0
+Sao Tome and Principe,Yellow fever,0.0
+Sao Tome and Principe,Japanese encephalitis,0.0
+Sao Tome and Principe,Invasive meningococcal disease,0.0
+Sao Tome and Principe,Diphtheria,0.0
+Sao Tome and Principe,Congenital rubella syndrome,0.0
+Saudi Arabia,Measles,335185.0
+Saudi Arabia,Pertussis,22400.0
+Saudi Arabia,Mumps,8592.0
+Saudi Arabia,Rubella,2293.0
+Saudi Arabia,Total tetanus,1679.0
+Saudi Arabia,Diphtheria,1006.0
+Saudi Arabia,Poliomyelitis,806.0
+Saudi Arabia,Neonatal tetanus,591.0
+Saudi Arabia,Invasive meningococcal disease,70.0
+Saudi Arabia,Congenital rubella syndrome,4.0
+Saudi Arabia,Typhoid,3.0
+Saudi Arabia,Yellow fever,0.0
+Saudi Arabia,Japanese encephalitis,0.0
+Senegal,Measles,276604.0
+Senegal,Mumps,136171.0
+Senegal,Pertussis,85525.0
+Senegal,Typhoid,17660.0
+Senegal,Total tetanus,5598.0
+Senegal,Neonatal tetanus,1576.0
+Senegal,Poliomyelitis,1307.0
+Senegal,Rubella,1251.0
+Senegal,Diphtheria,644.0
+Senegal,Yellow fever,213.0
+Senegal,Japanese encephalitis,0.0
+Senegal,Congenital rubella syndrome,0.0
+Senegal,Invasive meningococcal disease,
+Serbia,Measles,215835.0
+Serbia,Pertussis,49099.0
+Serbia,Rubella,6682.0
+Serbia,Mumps,6110.0
+Serbia,Total tetanus,1281.0
+Serbia,Neonatal tetanus,117.0
+Serbia,Poliomyelitis,82.0
+Serbia,Invasive meningococcal disease,14.0
+Serbia,Diphtheria,3.0
+Serbia,Typhoid,1.0
+Serbia,Yellow fever,0.0
+Serbia,Japanese encephalitis,0.0
+Serbia,Congenital rubella syndrome,0.0
+Seychelles,Measles,1351.0
+Seychelles,Pertussis,58.0
+Seychelles,Total tetanus,14.0
+Seychelles,Mumps,10.0
+Seychelles,Rubella,4.0
+Seychelles,Yellow fever,0.0
+Seychelles,Typhoid,0.0
+Seychelles,Poliomyelitis,0.0
+Seychelles,Neonatal tetanus,0.0
+Seychelles,Japanese encephalitis,0.0
+Seychelles,Invasive meningococcal disease,0.0
+Seychelles,Diphtheria,0.0
+Seychelles,Congenital rubella syndrome,0.0
+Sierra Leone,Typhoid,188473.0
+Sierra Leone,Measles,45482.0
+Sierra Leone,Pertussis,10459.0
+Sierra Leone,Total tetanus,6365.0
+Sierra Leone,Neonatal tetanus,4132.0
+Sierra Leone,Yellow fever,846.0
+Sierra Leone,Diphtheria,814.0
+Sierra Leone,Rubella,645.0
+Sierra Leone,Poliomyelitis,583.0
+Sierra Leone,Invasive meningococcal disease,119.0
+Sierra Leone,Japanese encephalitis,7.0
+Sierra Leone,Mumps,0.0
+Sierra Leone,Congenital rubella syndrome,0.0
+Singapore,Mumps,23762.0
+Singapore,Measles,11178.0
+Singapore,Rubella,2457.0
+Singapore,Pertussis,451.0
+Singapore,Typhoid,43.0
+Singapore,Congenital rubella syndrome,18.0
+Singapore,Diphtheria,17.0
+Singapore,Total tetanus,15.0
+Singapore,Neonatal tetanus,8.0
+Singapore,Poliomyelitis,6.0
+Singapore,Japanese encephalitis,4.0
+Singapore,Yellow fever,0.0
+Singapore,Invasive meningococcal disease,
+Sint Maarten (Dutch part),Mumps,1.0
+Sint Maarten (Dutch part),Yellow fever,0.0
+Sint Maarten (Dutch part),Typhoid,0.0
+Sint Maarten (Dutch part),Total tetanus,0.0
+Sint Maarten (Dutch part),Rubella,0.0
+Sint Maarten (Dutch part),Poliomyelitis,0.0
+Sint Maarten (Dutch part),Pertussis,0.0
+Sint Maarten (Dutch part),Neonatal tetanus,0.0
+Sint Maarten (Dutch part),Measles,0.0
+Sint Maarten (Dutch part),Diphtheria,0.0
+Sint Maarten (Dutch part),Congenital rubella syndrome,0.0
+Sint Maarten (Dutch part),Japanese encephalitis,
+Slovakia,Pertussis,9888.0
+Slovakia,Mumps,3992.0
+Slovakia,Measles,3305.0
+Slovakia,Invasive meningococcal disease,112.0
+Slovakia,Rubella,91.0
+Slovakia,Diphtheria,17.0
+Slovakia,Total tetanus,8.0
+Slovakia,Yellow fever,0.0
+Slovakia,Typhoid,0.0
+Slovakia,Poliomyelitis,0.0
+Slovakia,Neonatal tetanus,0.0
+Slovakia,Japanese encephalitis,0.0
+Slovakia,Congenital rubella syndrome,0.0
+Slovenia,Pertussis,5442.0
+Slovenia,Measles,785.0
+Slovenia,Mumps,285.0
+Slovenia,Total tetanus,112.0
+Slovenia,Rubella,22.0
+Slovenia,Invasive meningococcal disease,21.0
+Slovenia,Typhoid,3.0
+Slovenia,Yellow fever,0.0
+Slovenia,Poliomyelitis,0.0
+Slovenia,Neonatal tetanus,0.0
+Slovenia,Japanese encephalitis,0.0
+Slovenia,Diphtheria,0.0
+Slovenia,Congenital rubella syndrome,0.0
+Solomon Islands,Measles,24385.0
+Solomon Islands,Pertussis,2168.0
+Solomon Islands,Total tetanus,260.0
+Solomon Islands,Mumps,104.0
+Solomon Islands,Neonatal tetanus,26.0
+Solomon Islands,Yellow fever,0.0
+Solomon Islands,Typhoid,0.0
+Solomon Islands,Rubella,0.0
+Solomon Islands,Poliomyelitis,0.0
+Solomon Islands,Japanese encephalitis,0.0
+Solomon Islands,Diphtheria,0.0
+Solomon Islands,Congenital rubella syndrome,0.0
+Solomon Islands,Invasive meningococcal disease,
+Somalia,Measles,163870.0
+Somalia,Pertussis,14237.0
+Somalia,Neonatal tetanus,3313.0
+Somalia,Total tetanus,3030.0
+Somalia,Rubella,2408.0
+Somalia,Poliomyelitis,985.0
+Somalia,Diphtheria,402.0
+Somalia,Yellow fever,0.0
+Somalia,Typhoid,0.0
+Somalia,Mumps,0.0
+Somalia,Japanese encephalitis,0.0
+Somalia,Invasive meningococcal disease,0.0
+Somalia,Congenital rubella syndrome,0.0
+South Africa,Measles,270085.0
+South Africa,Rubella,20738.0
+South Africa,Pertussis,4161.0
+South Africa,Total tetanus,2993.0
+South Africa,Typhoid,2145.0
+South Africa,Neonatal tetanus,1669.0
+South Africa,Poliomyelitis,1322.0
+South Africa,Diphtheria,461.0
+South Africa,Invasive meningococcal disease,220.0
+South Africa,Congenital rubella syndrome,65.0
+South Africa,Mumps,24.0
+South Africa,Yellow fever,0.0
+South Africa,Japanese encephalitis,0.0
+South Sudan,Typhoid,259833.0
+South Sudan,Measles,22956.0
+South Sudan,Invasive meningococcal disease,2377.0
+South Sudan,Rubella,669.0
+South Sudan,Yellow fever,239.0
+South Sudan,Neonatal tetanus,170.0
+South Sudan,Total tetanus,167.0
+South Sudan,Pertussis,132.0
+South Sudan,Diphtheria,94.0
+South Sudan,Poliomyelitis,62.0
+South Sudan,Mumps,0.0
+South Sudan,Japanese encephalitis,0.0
+South Sudan,Congenital rubella syndrome,0.0
+South-East Asia Region,Measles,5505776.0
+South-East Asia Region,Pertussis,4289735.0
+South-East Asia Region,Typhoid,1297366.0
+South-East Asia Region,Total tetanus,785079.0
+South-East Asia Region,Mumps,631021.0
+South-East Asia Region,Diphtheria,422489.0
+South-East Asia Region,Poliomyelitis,309184.0
+South-East Asia Region,Rubella,157356.0
+South-East Asia Region,Neonatal tetanus,128333.0
+South-East Asia Region,Japanese encephalitis,34032.0
+South-East Asia Region,Congenital rubella syndrome,3994.0
+South-East Asia Region,Invasive meningococcal disease,66.0
+South-East Asia Region,Yellow fever,0.0
+Spain,Measles,1300063.0
+Spain,Pertussis,396987.0
+Spain,Mumps,114932.0
+Spain,Rubella,2107.0
+Spain,Total tetanus,1644.0
+Spain,Invasive meningococcal disease,700.0
+Spain,Typhoid,203.0
+Spain,Poliomyelitis,102.0
+Spain,Neonatal tetanus,24.0
+Spain,Diphtheria,24.0
+Spain,Congenital rubella syndrome,15.0
+Spain,Yellow fever,1.0
+Spain,Japanese encephalitis,0.0
+Sri Lanka,Measles,103256.0
+Sri Lanka,Mumps,13805.0
+Sri Lanka,Total tetanus,7676.0
+Sri Lanka,Pertussis,4367.0
+Sri Lanka,Neonatal tetanus,1238.0
+Sri Lanka,Rubella,1110.0
+Sri Lanka,Poliomyelitis,848.0
+Sri Lanka,Typhoid,780.0
+Sri Lanka,Japanese encephalitis,635.0
+Sri Lanka,Congenital rubella syndrome,183.0
+Sri Lanka,Diphtheria,175.0
+Sri Lanka,Invasive meningococcal disease,12.0
+Sri Lanka,Yellow fever,0.0
+Sudan,Measles,440151.0
+Sudan,Pertussis,155198.0
+Sudan,Total tetanus,31249.0
+Sudan,Diphtheria,8533.0
+Sudan,Rubella,6387.0
+Sudan,Poliomyelitis,5966.0
+Sudan,Neonatal tetanus,4995.0
+Sudan,Congenital rubella syndrome,20.0
+Sudan,Yellow fever,0.0
+Sudan,Typhoid,
+Sudan,Mumps,
+Sudan,Japanese encephalitis,
+Sudan,Invasive meningococcal disease,
+Suriname,Measles,1929.0
+Suriname,Rubella,104.0
+Suriname,Total tetanus,95.0
+Suriname,Pertussis,78.0
+Suriname,Mumps,59.0
+Suriname,Neonatal tetanus,9.0
+Suriname,Diphtheria,7.0
+Suriname,Poliomyelitis,1.0
+Suriname,Congenital rubella syndrome,1.0
+Suriname,Yellow fever,0.0
+Suriname,Typhoid,0.0
+Suriname,Japanese encephalitis,0.0
+Suriname,Invasive meningococcal disease,0.0
+Sweden,Pertussis,168485.0
+Sweden,Measles,18494.0
+Sweden,Mumps,715.0
+Sweden,Invasive meningococcal disease,94.0
+Sweden,Diphtheria,73.0
+Sweden,Rubella,67.0
+Sweden,Total tetanus,62.0
+Sweden,Typhoid,28.0
+Sweden,Japanese encephalitis,4.0
+Sweden,Congenital rubella syndrome,2.0
+Sweden,Poliomyelitis,1.0
+Sweden,Yellow fever,0.0
+Sweden,Neonatal tetanus,0.0
+Switzerland,Pertussis,172272.0
+Switzerland,Measles,50360.0
+Switzerland,Mumps,27940.0
+Switzerland,Rubella,2710.0
+Switzerland,Diphtheria,170.0
+Switzerland,Total tetanus,49.0
+Switzerland,Invasive meningococcal disease,47.0
+Switzerland,Typhoid,40.0
+Switzerland,Poliomyelitis,6.0
+Switzerland,Yellow fever,1.0
+Switzerland,Neonatal tetanus,1.0
+Switzerland,Congenital rubella syndrome,1.0
+Switzerland,Japanese encephalitis,0.0
+Syrian Arab Republic,Mumps,63417.0
+Syrian Arab Republic,Measles,37403.0
+Syrian Arab Republic,Pertussis,9596.0
+Syrian Arab Republic,Typhoid,4948.0
+Syrian Arab Republic,Diphtheria,3997.0
+Syrian Arab Republic,Total tetanus,2539.0
+Syrian Arab Republic,Neonatal tetanus,1944.0
+Syrian Arab Republic,Poliomyelitis,1221.0
+Syrian Arab Republic,Rubella,960.0
+Syrian Arab Republic,Invasive meningococcal disease,378.0
+Syrian Arab Republic,Congenital rubella syndrome,15.0
+Syrian Arab Republic,Yellow fever,0.0
+Syrian Arab Republic,Japanese encephalitis,0.0
+Tajikistan,Measles,28350.0
+Tajikistan,Mumps,25134.0
+Tajikistan,Diphtheria,9547.0
+Tajikistan,Pertussis,6302.0
+Tajikistan,Rubella,4797.0
+Tajikistan,Poliomyelitis,657.0
+Tajikistan,Total tetanus,20.0
+Tajikistan,Yellow fever,0.0
+Tajikistan,Typhoid,0.0
+Tajikistan,Neonatal tetanus,0.0
+Tajikistan,Japanese encephalitis,0.0
+Tajikistan,Invasive meningococcal disease,0.0
+Tajikistan,Congenital rubella syndrome,0.0
+Thailand,Measles,547940.0
+Thailand,Mumps,167322.0
+Thailand,Pertussis,32637.0
+Thailand,Total tetanus,21655.0
+Thailand,Rubella,9439.0
+Thailand,Diphtheria,9136.0
+Thailand,Neonatal tetanus,6039.0
+Thailand,Poliomyelitis,1395.0
+Thailand,Japanese encephalitis,737.0
+Thailand,Invasive meningococcal disease,45.0
+Thailand,Congenital rubella syndrome,2.0
+Thailand,Yellow fever,0.0
+Thailand,Typhoid,0.0
+Timor-Leste,Measles,1402.0
+Timor-Leste,Rubella,105.0
+Timor-Leste,Total tetanus,69.0
+Timor-Leste,Pertussis,54.0
+Timor-Leste,Mumps,47.0
+Timor-Leste,Neonatal tetanus,42.0
+Timor-Leste,Japanese encephalitis,40.0
+Timor-Leste,Diphtheria,4.0
+Timor-Leste,Congenital rubella syndrome,1.0
+Timor-Leste,Yellow fever,0.0
+Timor-Leste,Typhoid,0.0
+Timor-Leste,Poliomyelitis,0.0
+Timor-Leste,Invasive meningococcal disease,0.0
+Togo,Measles,246388.0
+Togo,Pertussis,31373.0
+Togo,Total tetanus,3812.0
+Togo,Neonatal tetanus,2043.0
+Togo,Rubella,1709.0
+Togo,Typhoid,1641.0
+Togo,Poliomyelitis,944.0
+Togo,Yellow fever,37.0
+Togo,Invasive meningococcal disease,29.0
+Togo,Congenital rubella syndrome,19.0
+Togo,Diphtheria,1.0
+Togo,Mumps,
+Togo,Japanese encephalitis,
+Tokelau,Measles,48.0
+Tokelau,Pertussis,22.0
+Tokelau,Mumps,3.0
+Tokelau,Yellow fever,0.0
+Tokelau,Typhoid,0.0
+Tokelau,Total tetanus,0.0
+Tokelau,Rubella,0.0
+Tokelau,Poliomyelitis,0.0
+Tokelau,Neonatal tetanus,0.0
+Tokelau,Japanese encephalitis,0.0
+Tokelau,Diphtheria,0.0
+Tokelau,Congenital rubella syndrome,0.0
+Tokelau,Invasive meningococcal disease,
+Tonga,Measles,5144.0
+Tonga,Pertussis,612.0
+Tonga,Mumps,29.0
+Tonga,Total tetanus,25.0
+Tonga,Neonatal tetanus,2.0
+Tonga,Yellow fever,0.0
+Tonga,Typhoid,0.0
+Tonga,Rubella,0.0
+Tonga,Poliomyelitis,0.0
+Tonga,Japanese encephalitis,0.0
+Tonga,Invasive meningococcal disease,0.0
+Tonga,Diphtheria,0.0
+Tonga,Congenital rubella syndrome,0.0
+Trinidad and Tobago,Measles,21078.0
+Trinidad and Tobago,Total tetanus,178.0
+Trinidad and Tobago,Pertussis,127.0
+Trinidad and Tobago,Mumps,72.0
+Trinidad and Tobago,Rubella,41.0
+Trinidad and Tobago,Diphtheria,8.0
+Trinidad and Tobago,Congenital rubella syndrome,4.0
+Trinidad and Tobago,Neonatal tetanus,1.0
+Trinidad and Tobago,Yellow fever,0.0
+Trinidad and Tobago,Typhoid,0.0
+Trinidad and Tobago,Poliomyelitis,0.0
+Trinidad and Tobago,Japanese encephalitis,0.0
+Trinidad and Tobago,Invasive meningococcal disease,0.0
+Tunisia,Measles,42275.0
+Tunisia,Pertussis,8886.0
+Tunisia,Rubella,3716.0
+Tunisia,Total tetanus,758.0
+Tunisia,Typhoid,548.0
+Tunisia,Neonatal tetanus,359.0
+Tunisia,Poliomyelitis,149.0
+Tunisia,Congenital rubella syndrome,62.0
+Tunisia,Invasive meningococcal disease,45.0
+Tunisia,Diphtheria,29.0
+Tunisia,Yellow fever,0.0
+Tunisia,Japanese encephalitis,0.0
+Tunisia,Mumps,
+Turkmenistan,Measles,12538.0
+Turkmenistan,Mumps,6648.0
+Turkmenistan,Rubella,1328.0
+Turkmenistan,Pertussis,1202.0
+Turkmenistan,Diphtheria,433.0
+Turkmenistan,Poliomyelitis,41.0
+Turkmenistan,Total tetanus,16.0
+Turkmenistan,Invasive meningococcal disease,2.0
+Turkmenistan,Typhoid,1.0
+Turkmenistan,Neonatal tetanus,1.0
+Turkmenistan,Yellow fever,0.0
+Turkmenistan,Japanese encephalitis,0.0
+Turkmenistan,Congenital rubella syndrome,0.0
+Turks and Caicos Islands,Measles,145.0
+Turks and Caicos Islands,Pertussis,32.0
+Turks and Caicos Islands,Rubella,4.0
+Turks and Caicos Islands,Mumps,1.0
+Turks and Caicos Islands,Yellow fever,0.0
+Turks and Caicos Islands,Typhoid,0.0
+Turks and Caicos Islands,Total tetanus,0.0
+Turks and Caicos Islands,Poliomyelitis,0.0
+Turks and Caicos Islands,Neonatal tetanus,0.0
+Turks and Caicos Islands,Japanese encephalitis,0.0
+Turks and Caicos Islands,Invasive meningococcal disease,0.0
+Turks and Caicos Islands,Diphtheria,0.0
+Turks and Caicos Islands,Congenital rubella syndrome,0.0
+Tuvalu,Measles,885.0
+Tuvalu,Typhoid,164.0
+Tuvalu,Diphtheria,61.0
+Tuvalu,Mumps,4.0
+Tuvalu,Pertussis,2.0
+Tuvalu,Total tetanus,1.0
+Tuvalu,Yellow fever,0.0
+Tuvalu,Rubella,0.0
+Tuvalu,Poliomyelitis,0.0
+Tuvalu,Neonatal tetanus,0.0
+Tuvalu,Japanese encephalitis,0.0
+Tuvalu,Congenital rubella syndrome,0.0
+Tuvalu,Invasive meningococcal disease,
+Türkiye,Measles,465511.0
+Türkiye,Mumps,78706.0
+Türkiye,Pertussis,30761.0
+Türkiye,Rubella,6259.0
+Türkiye,Total tetanus,2494.0
+Türkiye,Diphtheria,1297.0
+Türkiye,Poliomyelitis,1119.0
+Türkiye,Neonatal tetanus,926.0
+Türkiye,Congenital rubella syndrome,6.0
+Türkiye,Yellow fever,0.0
+Türkiye,Typhoid,
+Türkiye,Japanese encephalitis,
+Türkiye,Invasive meningococcal disease,
+Uganda,Measles,568906.0
+Uganda,Typhoid,389334.0
+Uganda,Total tetanus,26246.0
+Uganda,Pertussis,25651.0
+Uganda,Rubella,18154.0
+Uganda,Neonatal tetanus,8671.0
+Uganda,Poliomyelitis,1077.0
+Uganda,Diphtheria,442.0
+Uganda,Yellow fever,240.0
+Uganda,Congenital rubella syndrome,69.0
+Uganda,Japanese encephalitis,0.0
+Uganda,Invasive meningococcal disease,0.0
+Uganda,Mumps,
+Ukraine,Rubella,492804.0
+Ukraine,Measles,284902.0
+Ukraine,Mumps,140253.0
+Ukraine,Pertussis,65169.0
+Ukraine,Diphtheria,21195.0
+Ukraine,Total tetanus,903.0
+Ukraine,Invasive meningococcal disease,326.0
+Ukraine,Poliomyelitis,40.0
+Ukraine,Typhoid,7.0
+Ukraine,Congenital rubella syndrome,2.0
+Ukraine,Yellow fever,0.0
+Ukraine,Neonatal tetanus,0.0
+Ukraine,Japanese encephalitis,0.0
+United Arab Emirates,Measles,29880.0
+United Arab Emirates,Mumps,5814.0
+United Arab Emirates,Pertussis,2177.0
+United Arab Emirates,Typhoid,1082.0
+United Arab Emirates,Rubella,1010.0
+United Arab Emirates,Poliomyelitis,201.0
+United Arab Emirates,Total tetanus,182.0
+United Arab Emirates,Diphtheria,130.0
+United Arab Emirates,Neonatal tetanus,48.0
+United Arab Emirates,Yellow fever,0.0
+United Arab Emirates,Japanese encephalitis,0.0
+United Arab Emirates,Invasive meningococcal disease,0.0
+United Arab Emirates,Congenital rubella syndrome,0.0
+United Kingdom of Great Britain and Northern Ireland,Measles,980171.0
+United Kingdom of Great Britain and Northern Ireland,Pertussis,345192.0
+United Kingdom of Great Britain and Northern Ireland,Mumps,130275.0
+United Kingdom of Great Britain and Northern Ireland,Invasive meningococcal disease,1212.0
+United Kingdom of Great Britain and Northern Ireland,Rubella,536.0
+United Kingdom of Great Britain and Northern Ireland,Total tetanus,411.0
+United Kingdom of Great Britain and Northern Ireland,Diphtheria,221.0
+United Kingdom of Great Britain and Northern Ireland,Typhoid,120.0
+United Kingdom of Great Britain and Northern Ireland,Poliomyelitis,31.0
+United Kingdom of Great Britain and Northern Ireland,Congenital rubella syndrome,14.0
+United Kingdom of Great Britain and Northern Ireland,Yellow fever,1.0
+United Kingdom of Great Britain and Northern Ireland,Neonatal tetanus,1.0
+United Kingdom of Great Britain and Northern Ireland,Japanese encephalitis,0.0
+United Republic of Tanzania,Measles,671569.0
+United Republic of Tanzania,Typhoid,572129.0
+United Republic of Tanzania,Pertussis,26020.0
+United Republic of Tanzania,Neonatal tetanus,3676.0
+United Republic of Tanzania,Total tetanus,2799.0
+United Republic of Tanzania,Rubella,2543.0
+United Republic of Tanzania,Poliomyelitis,1663.0
+United Republic of Tanzania,Diphtheria,174.0
+United Republic of Tanzania,Mumps,71.0
+United Republic of Tanzania,Congenital rubella syndrome,47.0
+United Republic of Tanzania,Yellow fever,9.0
+United Republic of Tanzania,Japanese encephalitis,0.0
+United Republic of Tanzania,Invasive meningococcal disease,
+United States of America,Pertussis,468447.0
+United States of America,Measles,102801.0
+United States of America,Mumps,36828.0
+United States of America,Total tetanus,1732.0
+United States of America,Rubella,1162.0
+United States of America,Invasive meningococcal disease,821.0
+United States of America,Poliomyelitis,65.0
+United States of America,Diphtheria,60.0
+United States of America,Congenital rubella syndrome,50.0
+United States of America,Neonatal tetanus,7.0
+United States of America,Yellow fever,1.0
+United States of America,Typhoid,
+United States of America,Japanese encephalitis,
+Uruguay,Measles,20168.0
+Uruguay,Mumps,15371.0
+Uruguay,Pertussis,7620.0
+Uruguay,Total tetanus,131.0
+Uruguay,Invasive meningococcal disease,51.0
+Uruguay,Rubella,17.0
+Uruguay,Neonatal tetanus,2.0
+Uruguay,Yellow fever,0.0
+Uruguay,Typhoid,0.0
+Uruguay,Poliomyelitis,0.0
+Uruguay,Japanese encephalitis,0.0
+Uruguay,Diphtheria,0.0
+Uruguay,Congenital rubella syndrome,0.0
+Uzbekistan,Mumps,55213.0
+Uzbekistan,Measles,27023.0
+Uzbekistan,Rubella,8008.0
+Uzbekistan,Pertussis,6213.0
+Uzbekistan,Diphtheria,1268.0
+Uzbekistan,Poliomyelitis,217.0
+Uzbekistan,Total tetanus,36.0
+Uzbekistan,Invasive meningococcal disease,24.0
+Uzbekistan,Typhoid,5.0
+Uzbekistan,Yellow fever,0.0
+Uzbekistan,Neonatal tetanus,0.0
+Uzbekistan,Japanese encephalitis,0.0
+Uzbekistan,Congenital rubella syndrome,0.0
+Vanuatu,Measles,6863.0
+Vanuatu,Pertussis,3196.0
+Vanuatu,Mumps,433.0
+Vanuatu,Total tetanus,56.0
+Vanuatu,Neonatal tetanus,29.0
+Vanuatu,Diphtheria,9.0
+Vanuatu,Poliomyelitis,5.0
+Vanuatu,Invasive meningococcal disease,2.0
+Vanuatu,Yellow fever,0.0
+Vanuatu,Typhoid,0.0
+Vanuatu,Rubella,0.0
+Vanuatu,Japanese encephalitis,0.0
+Vanuatu,Congenital rubella syndrome,0.0
+Venezuela (Bolivarian Republic of),Measles,238646.0
+Venezuela (Bolivarian Republic of),Rubella,100259.0
+Venezuela (Bolivarian Republic of),Mumps,64396.0
+Venezuela (Bolivarian Republic of),Pertussis,39055.0
+Venezuela (Bolivarian Republic of),Total tetanus,3943.0
+Venezuela (Bolivarian Republic of),Diphtheria,2030.0
+Venezuela (Bolivarian Republic of),Neonatal tetanus,1065.0
+Venezuela (Bolivarian Republic of),Poliomyelitis,241.0
+Venezuela (Bolivarian Republic of),Yellow fever,100.0
+Venezuela (Bolivarian Republic of),Typhoid,40.0
+Venezuela (Bolivarian Republic of),Invasive meningococcal disease,4.0
+Venezuela (Bolivarian Republic of),Congenital rubella syndrome,0.0
+Venezuela (Bolivarian Republic of),Japanese encephalitis,
+Viet Nam,Measles,844424.0
+Viet Nam,Pertussis,553283.0
+Viet Nam,Total tetanus,26690.0
+Viet Nam,Diphtheria,24619.0
+Viet Nam,Rubella,24004.0
+Viet Nam,Mumps,18008.0
+Viet Nam,Poliomyelitis,13407.0
+Viet Nam,Neonatal tetanus,4075.0
+Viet Nam,Japanese encephalitis,3204.0
+Viet Nam,Typhoid,632.0
+Viet Nam,Congenital rubella syndrome,434.0
+Viet Nam,Invasive meningococcal disease,4.0
+Viet Nam,Yellow fever,0.0
+Wallis and Futuna,Measles,547.0
+Wallis and Futuna,Pertussis,129.0
+Wallis and Futuna,Rubella,5.0
+Wallis and Futuna,Mumps,3.0
+Wallis and Futuna,Total tetanus,1.0
+Wallis and Futuna,Yellow fever,0.0
+Wallis and Futuna,Typhoid,0.0
+Wallis and Futuna,Poliomyelitis,0.0
+Wallis and Futuna,Neonatal tetanus,0.0
+Wallis and Futuna,Japanese encephalitis,0.0
+Wallis and Futuna,Diphtheria,0.0
+Wallis and Futuna,Congenital rubella syndrome,0.0
+Western Pacific Region,Measles,10210588.0
+Western Pacific Region,Mumps,6757788.0
+Western Pacific Region,Pertussis,4440216.0
+Western Pacific Region,Rubella,683880.0
+Western Pacific Region,Total tetanus,130720.0
+Western Pacific Region,Diphtheria,98259.0
+Western Pacific Region,Poliomyelitis,75341.0
+Western Pacific Region,Neonatal tetanus,66792.0
+Western Pacific Region,Japanese encephalitis,41106.0
+Western Pacific Region,Typhoid,34029.0
+Western Pacific Region,Invasive meningococcal disease,1803.0
+Western Pacific Region,Congenital rubella syndrome,785.0
+Western Pacific Region,Yellow fever,0.0
+Yemen,Measles,408796.0
+Yemen,Pertussis,214109.0
+Yemen,Mumps,41862.0
+Yemen,Diphtheria,15040.0
+Yemen,Rubella,9975.0
+Yemen,Total tetanus,7322.0
+Yemen,Poliomyelitis,5987.0
+Yemen,Neonatal tetanus,2686.0
+Yemen,Typhoid,639.0
+Yemen,Yellow fever,0.0
+Yemen,Japanese encephalitis,0.0
+Yemen,Invasive meningococcal disease,0.0
+Yemen,Congenital rubella syndrome,
+Zambia,Measles,760360.0
+Zambia,Mumps,136693.0
+Zambia,Pertussis,93828.0
+Zambia,Rubella,4154.0
+Zambia,Total tetanus,3765.0
+Zambia,Poliomyelitis,2292.0
+Zambia,Neonatal tetanus,1979.0
+Zambia,Invasive meningococcal disease,1437.0
+Zambia,Diphtheria,450.0
+Zambia,Typhoid,138.0
+Zambia,Congenital rubella syndrome,13.0
+Zambia,Yellow fever,0.0
+Zambia,Japanese encephalitis,0.0
+Zimbabwe,Measles,464047.0
+Zimbabwe,Pertussis,24711.0
+Zimbabwe,Rubella,2574.0
+Zimbabwe,Neonatal tetanus,1980.0
+Zimbabwe,Total tetanus,1269.0
+Zimbabwe,Typhoid,600.0
+Zimbabwe,Poliomyelitis,277.0
+Zimbabwe,Mumps,257.0
+Zimbabwe,Diphtheria,119.0
+Zimbabwe,Congenital rubella syndrome,69.0
+Zimbabwe,Yellow fever,0.0
+Zimbabwe,Japanese encephalitis,0.0
+Zimbabwe,Invasive meningococcal disease,0.0
+"occupied Palestinian territory, including east Jerusalem",Mumps,6495.0
+"occupied Palestinian territory, including east Jerusalem",Measles,1551.0
+"occupied Palestinian territory, including east Jerusalem",Pertussis,795.0
+"occupied Palestinian territory, including east Jerusalem",Rubella,104.0
+"occupied Palestinian territory, including east Jerusalem",Total tetanus,33.0
+"occupied Palestinian territory, including east Jerusalem",Neonatal tetanus,7.0
+"occupied Palestinian territory, including east Jerusalem",Typhoid,1.0
+"occupied Palestinian territory, including east Jerusalem",Yellow fever,0.0
+"occupied Palestinian territory, including east Jerusalem",Poliomyelitis,0.0
+"occupied Palestinian territory, including east Jerusalem",Japanese encephalitis,0.0
+"occupied Palestinian territory, including east Jerusalem",Invasive meningococcal disease,0.0
+"occupied Palestinian territory, including east Jerusalem",Diphtheria,0.0
+"occupied Palestinian territory, including east Jerusalem",Congenital rubella syndrome,0.0
